@@ -1,0 +1,23 @@
+.instructor {
+  display: flex;
+  margin: $sp-4;
+
+  .instructor-image {
+    border-radius: 50%;
+    height: 100px;
+    margin-right: $sp-4;
+  }
+
+  p,
+  .instructor-name {
+    margin: $sp-1 !important;
+  }
+
+  .instructor-pronouns {
+    @extend .label, .text-grey-dk-100, .bg-grey-lt-200;
+  }
+
+  .instructor-meta {
+    @extend .text-grey-dk-000;
+  }
+}
