@@ -296,8 +296,8 @@ h6, .text-zeta { font-size: 11px !important; color: #44434d; }
 
 .text-right { text-align: right !important; }
 
-.label, .instructor .instructor-pronouns, div.highlighter-rouge[overlay]::after, .label-blue { display: inline-block; padding-top: 0.16em; padding-right: 0.56em; padding-bottom: 0.16em; padding-left: 0.56em; margin-right: 0.5rem; margin-left: 0.5rem; color: #fff; text-transform: uppercase; vertical-align: middle; background-color: #2869e6; font-size: 11px !important; border-radius: 12px; }
-@media (min-width: 31.25rem) { .label, .instructor .instructor-pronouns, div.highlighter-rouge[overlay]::after, .label-blue { font-size: 12px !important; } }
+.label, .staffer .staffer-pronouns, div.highlighter-rouge[overlay]::after, .label-blue { display: inline-block; padding-top: 0.16em; padding-right: 0.56em; padding-bottom: 0.16em; padding-left: 0.56em; margin-right: 0.5rem; margin-left: 0.5rem; color: #fff; text-transform: uppercase; vertical-align: middle; background-color: #2869e6; font-size: 11px !important; border-radius: 12px; }
+@media (min-width: 31.25rem) { .label, .staffer .staffer-pronouns, div.highlighter-rouge[overlay]::after, .label-blue { font-size: 12px !important; } }
 
 .label-green { background-color: #009c7b; }
 
@@ -581,9 +581,9 @@ figure.highlight pre, figure.highlight code { padding: 0; margin: 0; border: 0; 
 .code-example { padding: 0.75rem; margin-bottom: 0.75rem; overflow: auto; border: 1px solid #eeebee; border-radius: 4px; }
 .code-example + .highlighter-rouge, .code-example + figure.highlight { position: relative; margin-top: -1rem; border-right: 1px solid #eeebee; border-bottom: 1px solid #eeebee; border-left: 1px solid #eeebee; border-top-left-radius: 0; border-top-right-radius: 0; }
 
-.text-grey-dk-000, .instructor .instructor-meta { color: #959396 !important; }
+.text-grey-dk-000, .staffer .staffer-meta { color: #959396 !important; }
 
-.text-grey-dk-100, .instructor .instructor-pronouns, div.highlighter-rouge[overlay]::after { color: #5c5962 !important; }
+.text-grey-dk-100, .staffer .staffer-pronouns, div.highlighter-rouge[overlay]::after { color: #5c5962 !important; }
 
 .text-grey-dk-200 { color: #44434d !important; }
 
@@ -653,7 +653,7 @@ figure.highlight pre, figure.highlight code { padding: 0; margin: 0; border: 0; 
 
 .bg-grey-lt-100 { background-color: #eeebee !important; }
 
-.bg-grey-lt-200, .instructor .instructor-pronouns { background-color: #ecebed !important; }
+.bg-grey-lt-200, .staffer .staffer-pronouns { background-color: #ecebed !important; }
 
 .bg-grey-lt-300 { background-color: #e6e1e8 !important; }
 
@@ -2251,7 +2251,7 @@ figure.highlight pre, figure.highlight code { padding: 0; margin: 0; border: 0; 
 @media (min-width: 50rem) { .announcement, .main-content .module, .module { border-radius: 4px; margin: 1rem 0; } }
 .announcement > :first-child, .main-content .module > :first-child, .module > :first-child { border-top: none !important; }
 .announcement > :last-child, .main-content .module > :last-child, .module > :last-child { border-bottom: none !important; }
-.announcement .label, .module .label, .announcement .instructor .instructor-pronouns, .instructor .announcement .instructor-pronouns, .module .instructor .instructor-pronouns, .instructor .module .instructor-pronouns, .announcement div.highlighter-rouge[overlay]::after, .module div.highlighter-rouge[overlay]::after { border-radius: 4px; margin-left: 0; user-select: none; }
+.announcement .label, .module .label, .announcement .staffer .staffer-pronouns, .staffer .announcement .staffer-pronouns, .module .staffer .staffer-pronouns, .staffer .module .staffer-pronouns, .announcement div.highlighter-rouge[overlay]::after, .module div.highlighter-rouge[overlay]::after { border-radius: 4px; margin-left: 0; user-select: none; }
 
 .main-content .module h1:first-child, .main-content .module h2:first-child, .main-content .module h3:first-child, .main-content .module h4:first-child, .main-content .module h5:first-child, .main-content .module h6:first-child, .module h1:first-child, .module h2:first-child, .module h3:first-child, .module h4:first-child, .module h5:first-child, .module h6:first-child { margin-top: 1rem; }
 .main-content .module > dl, .module > dl { border-bottom: 1px solid #eeebee; border-top: 1px solid #eeebee; display: grid; grid-template-columns: max-content 1fr; margin: 0.5rem -1rem; }
@@ -2289,9 +2289,9 @@ figure.highlight pre, figure.highlight code { padding: 0; margin: 0; border: 0; 
 .schedule .schedule-event.section { background-color: #7253ed; }
 .schedule .schedule-event.office-hours { background-color: #2c84fa; }
 
-.instructor { display: flex; margin: 1rem; }
-.instructor .instructor-image { border-radius: 50%; height: 100px; margin-right: 1rem; }
-.instructor p, .instructor .instructor-name { margin: 0.25rem !important; }
+.staffer { display: flex; margin: 1rem; }
+.staffer .staffer-image { border-radius: 50%; height: 200px; margin-right: 1rem; }
+.staffer p, .staffer .staffer-name { margin: 0.25rem !important; }
 
 a abbr[title] { border-bottom: none; }
 

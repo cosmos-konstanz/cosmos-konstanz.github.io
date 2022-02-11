@@ -41,7 +41,7 @@ defaults:
       path: ''
       type: instructors
     values:
-      layout: instructors
+      layout: instructor
       subpath: '/assets/images/'
   - scope:
       path: ''
@@ -69,3 +69,6 @@ compress_html:
 
 plugins:
   - jekyll-seo-tag
+
+sass:
+    sass_dir: _sass
