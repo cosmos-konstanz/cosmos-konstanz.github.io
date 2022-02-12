@@ -11,18 +11,21 @@
     <li class="schedule-day">
       <h2 class="schedule-header">{{ day.name }}</h2>
       {% if day.events %}
-      <ul class="schedule-events" style="height: {{ page.timeline | size | times: 40 }}px">
+      <ul class="schedule-events" style="height: {{ page.timeline | size | times: 70 }}px">
       {% for event in day.events %}
         {% capture start %}{% include minutes.liquid time=event.start %}{% endcapture %}
         {% capture end %}{% include minutes.liquid time=event.end %}{% endcapture %}
-        {% assign top = start | minus: offset | times: 40 | divided_by: 30 %}
-        {% assign height = end | minus: start | times: 40 | divided_by: 30 %}
+        {% assign top = start | minus: offset | times: 70 | divided_by: 30 %}
+        {% assign height = end | minus: start | times: 70 | divided_by: 30 %}
         <li class="schedule-event {% if event.class %}{{ event.class }}{% else %}{{ event.name | slugify }}{% endif %}"
             style="top: {{ top }}px; height: {{ height }}px;">
           <div class="name">{{ event.name }}</div>
           <div class="time">{{ event.start }}–{{ event.end }}</div>
           {% if event.location %}
           <div class="location">{{ event.location }}</div>
+          {% endif %}
+          {% if event.instructor %}
+          <div class="instructor">{{ event.instructor }}</div>
           {% endif %}
         </li>
       {% endfor %}

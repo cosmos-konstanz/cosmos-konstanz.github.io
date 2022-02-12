@@ -1,10 +1,14 @@
 ---
 layout: page
 title: Schedule
-description: The weekly event schedule.
+description: COSMOS schedule.
 ---
 
-# Weekly Schedule
+# Schedule
+
+Monday July 4th - Thursday July 7th, 2022
+
+All times are CET
 
 {% for schedule in site.schedules %}
 {{ schedule }}

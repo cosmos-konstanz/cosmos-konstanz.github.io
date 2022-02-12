@@ -7,7 +7,7 @@
   },"1": {
     "doc": "About",
     "title": "Table of contents",
-    "content": ". | About | Lecture | Resources | Assignments | . ",
+    "content": ". | About | Objective | Resources | Assignments | . ",
     "url": "http://localhost:4000/about/#table-of-contents",
     "relUrl": "/about/#table-of-contents"
   },"2": {
@@ -18,10 +18,10 @@
     "relUrl": "/about/"
   },"3": {
     "doc": "About",
-    "title": "Lecture",
-    "content": "Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Vulputate dignissim suspendisse in est ante in. Massa vitae tortor condimentum lacinia quis vel. Gravida neque convallis a cras semper auctor. Pellentesque eu tincidunt tortor aliquam nulla. Quam adipiscing vitae proin sagittis nisl rhoncus mattis rhoncus urna. Sit amet purus gravida quis blandit turpis cursus in. Porttitor leo a diam sollicitudin tempor. Vel facilisis volutpat est velit egestas dui id ornare. Cum sociis natoque penatibus et magnis. Tristique magna sit amet purus gravida. Nibh sit amet commodo nulla facilisi nullam vehicula. Aenean vel elit scelerisque mauris pellentesque pulvinar pellentesque. Id semper risus in hendrerit gravida. Sit amet justo donec enim diam vulputate ut pharetra sit. Vitae justo eget magna fermentum. Tellus in metus vulputate eu. Pellentesque id nibh tortor id aliquet lectus proin nibh nisl. Etiam erat velit scelerisque in dictum non consectetur a erat. Pellentesque eu tincidunt tortor aliquam nulla. ",
-    "url": "http://localhost:4000/about/#lecture",
-    "relUrl": "/about/#lecture"
+    "title": "Objective",
+    "content": "Today, we live in a massively interconnected and digitalized society that allows us to rapidly exchange information among huge numbers of genetically unrelated individuals. This level of connectivity is made possible by our capacity for integrating socially acquired information with our individual experiences in order to inform our reasoning and decision-making processes. Human social learning and our capacity for cumulatively innovating upon past solutions thus plays a central role in our ability to thrive in a wide range of environmental conditions. Yet, in addition to the benefits, there are also emerging dangers and pitfalls of social learning mechanisms gone awry, such as the spread of misinformation and formation of echo-chambers, which are phenomena we are only beginning to understand. While human social learning is certainly distinct, there has also been a long-standing tradition of researchers studying collective behavior in non-human animals, with their own sophisticated vocabulary of theories and powerful predictive models. Yet, superficial gaps in terminologies and concepts used across human and non-human domains have made cross-disciplinary collaborations difficult. To better understand ourselves as human social learners, what is required is a unified language that allows us to engage in the quantitative and comparative study of social learning and collective intelligence observed across species. To address this gap, we propose a summer school dedicated to developing the skills needed to communicate with researchers of social and collective behavior from diverse fields, using computational models as a common language. Computational modeling is becoming both more important and widely used in behavioural sciences. However, the mathematical framework and computational skills necessary to tackle the interdisciplinary challenges of modeling collective behaviour are not always readily accessible to early career researchers. ",
+    "url": "http://localhost:4000/about/#objective",
+    "relUrl": "/about/#objective"
   },"4": {
     "doc": "About",
     "title": "Resources",
@@ -37,127 +37,127 @@
   },"6": {
     "doc": "Announcements",
     "title": "Announcements",
-    "content": "Announcements are stored in the _announcements directory and rendered according to the layout file, _layouts/announcement.html. ",
+    "content": " ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
   },"7": {
     "doc": "Announcements",
-    "title": "Week 1 Announcement",
-    "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . ",
+    "title": "Call for applications",
+    "content": "Feb 12 &middot; 1 min read ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
   },"8": {
     "doc": "Announcements",
-    "title": "Week 0 Announcement",
-    "content": "Apr 1 &middot; 0 min read Hello world! . ",
-    "url": "http://localhost:4000/announcements/",
-    "relUrl": "/announcements/"
+    "title": "Apply by April 14th",
+    "content": "We invite you to apply to the Computational Summer school on Modeling Social and collective behavior (COSMOS) taking place from July 4th - July 7th 2022 in Konstanz, DE. COSMOS is designed to provide attendees (COSMOnauts) from diverse fields (e.g., psychology, economics, neuroscience, biology, computer science, etc…) and career stages (master, PhD, postdoc, and junior PI) with the computational skills required to tackle emerging challenges in understanding social learning and collective behaviour. Taking advantage of the close collaboration networks and interdisciplinary expertise available at the Centre for the Advanced Study of Collective Behaviour (CASCB) in Konstanz, COSMOS will invite leading researchers from diverse disciplines as guest instructors who will mentor attendees’ own modelling projects during the School. In addition to providing hands-on instruction and mentorship for in-person attendees, our proposed hybrid format will also allow any number of remote participants to benefit from the openly accessible teaching materials and recorded talks. The goal of the students will be to develop a foundational understanding about how computational modeling can be a strong thread that unifies and advances the study of a wide range of social and collective phenomena. To apply, you will need to submit the following materials . | One page cover letter describing your motivation to attend the summer school and how you think it will will inform your research | Curriculum Vitae | One letter of recommendation | . ",
+    "url": "http://localhost:4000/announcements/#apply-by-april-14th",
+    "relUrl": "/announcements/#apply-by-april-14th"
   },"9": {
-    "doc": "Calendar",
-    "title": "Calendar",
+    "doc": "Course Materials",
+    "title": "Course Materials",
     "content": " ",
     "url": "http://localhost:4000/calendar/",
     "relUrl": "/calendar/"
   },"10": {
-    "doc": "Calendar",
-    "title": "Introduction to Java",
-    "content": "Sep 28 Java &amp; Git 1.1 Sep 29 SectionIntro to Java Solution Sep 30 Variables &amp; Objects 1.2, 2.1 Oct 1 Lab Intro to Java Oct 2 Tracing, IntLists, &amp; Recursion 2.1 HW 1 due ",
-    "url": "http://localhost:4000/calendar/#introduction-to-java",
-    "relUrl": "/calendar/#introduction-to-java"
+    "doc": "Course Materials",
+    "title": "Tutorial 1: Generative models of social learning tasks",
+    "content": "Jul 5 Course materials (code notebook) Exercises ",
+    "url": "http://localhost:4000/calendar/#tutorial-1-generative-models-of-social-learning-tasks",
+    "relUrl": "/calendar/#tutorial-1-generative-models-of-social-learning-tasks"
   },"11": {
-    "doc": "Calendar",
-    "title": "Basic Data Structures",
-    "content": "Oct 5 Linked Lists &amp; Encapsulation 3.1, 2.2, 2.3 Oct 6 SectionLinked Lists Solution Oct 7 Resizing Arrays 2.4, 2.5 Oct 8 Lab Resizing Arrays Oct 9 Runtime Analysis 8.1, 8.2, 8.3, 8.4 HW 2 due ",
-    "url": "http://localhost:4000/calendar/#basic-data-structures",
-    "relUrl": "/calendar/#basic-data-structures"
+    "doc": "Course Materials",
+    "title": "Tutorial 2: Using models to simulate behavior",
+    "content": "Jul 5 Course materials (code notebook) Exercises ",
+    "url": "http://localhost:4000/calendar/#tutorial-2-using-models-to-simulate-behavior",
+    "relUrl": "/calendar/#tutorial-2-using-models-to-simulate-behavior"
   },"12": {
+    "doc": "Course Materials",
+    "title": "Tutorial 3: Likelihoods, parameter estimation, and an introduction to Bayesian methods",
+    "content": "Jul 6 Course materials (code notebook) Exercises ",
+    "url": "http://localhost:4000/calendar/#tutorial-3-likelihoods-parameter-estimation-and-an-introduction-to-bayesian-methods",
+    "relUrl": "/calendar/#tutorial-3-likelihoods-parameter-estimation-and-an-introduction-to-bayesian-methods"
+  },"13": {
+    "doc": "Course Materials",
+    "title": "Tutorial 4:  Model comparison",
+    "content": "Jul 6 Course materials (code notebook) Exercises ",
+    "url": "http://localhost:4000/calendar/#tutorial-4-model-comparison",
+    "relUrl": "/calendar/#tutorial-4-model-comparison"
+  },"14": {
+    "doc": "Course Materials",
+    "title": "Tutorial 5:  Posterior checks",
+    "content": "Jul 6 Course materials (code notebook) Exercises ",
+    "url": "http://localhost:4000/calendar/#tutorial-5-posterior-checks",
+    "relUrl": "/calendar/#tutorial-5-posterior-checks"
+  },"15": {
     "doc": "COSMOS",
     "title": "COSMOS Konstanz",
     "content": "The Computational Summer school on Modeling Social and collective behavior (COSMOS) - Konstanz, DE July 4th - 7th . ",
     "url": "http://localhost:4000/#cosmos-konstanz",
     "relUrl": "/#cosmos-konstanz"
-  },"13": {
+  },"16": {
     "doc": "COSMOS",
-    "title": "Week 1 Announcement",
-    "content": "Apr 8 &middot; 0 min read . | Create a new repository based on Just the Class. | Configure a publishing source for GitHub Pages. Your course website is now live! | Update _config.yml with your course information. | Edit and create .md Markdown files to add your content. | . Announcements . ",
+    "title": "Call for applications",
+    "content": "Feb 12 &middot; 1 min read ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"14": {
+  },"17": {
     "doc": "COSMOS",
-    "title": "Just the Class",
-    "content": "Just the Class is a GitHub Pages template developed for the purpose of quickly deploying course websites. In addition to serving plain web pages and files, it provides a boilerplate for: . | a course calendar, | a staff page, | and a weekly schedule. | . Just the Class is a set of customizations on top of the popular Just the Docs theme, which provides a robust and thoroughly-tested foundation that makes it easy to extend for your own special use cases. These foundational features include: . | automatic navigation structure, | instant, full-text search and page indexing, | and a small but powerful set of UI components and authoring utilities. | . ",
-    "url": "http://localhost:4000/#just-the-class",
-    "relUrl": "/#just-the-class"
-  },"15": {
-    "doc": "COSMOS",
-    "title": "Getting Started",
-    "content": "Getting started with Just the Class is simple. | Create a new repository based on Just the Class. | Update _config.yml and index.md with your course information. Be sure to update the baseurl and url to the appropriate paths (eg. “/20au” and “https://courses.cs.washington.edu/”, respectively.). | Configure a publishing source for GitHub Pages. Your course website is now live! | Edit and create .md Markdown files to add your content. | . Just the Class has been used by instructors at Stanford University (CS 161), UC Berkeley (Data 100), UC Santa Barbara (DS1), Northeastern University (CS4530/5500), and Carnegie Mellon University (17-450/17-950). For a few open-source examples, see the following course websites and their source code. | CSE 390HA (source code) is an example of a single-page website that centers modules. | CSE 143 (source code) hosts an entire online textbook with full-text search. | CSE 373 (source code) is an example of a simple website combining Markdown pages with generated HTML files. | . Share your course website and find more examples in the show and tell discussion! . Continue reading to learn how to setup a development environment on your local computer. This allows you to make incremental changes without directly modifying the live website. Local development environment . Just the Class is built for Jekyll, a static site generator. View the quick start guide for more information. Just the Docs requires no special Jekyll plugins and can run on GitHub Pages’ standard Jekyll compiler. | Follow the GitHub documentation for Setting up your GitHub Pages site locally with Jekyll. | Start your local Jekyll server. $ bundle exec jekyll serve . | Point your web browser to http://localhost:4000 | Reload your web browser after making a change to preview its effect. | . For more information, refer to Just the Docs. ",
-    "url": "http://localhost:4000/#getting-started",
-    "relUrl": "/#getting-started"
-  },"16": {
+    "title": "Apply by April 14th",
+    "content": "We invite you to apply to the Computational Summer school on Modeling Social and collective behavior (COSMOS) taking place from July 4th - July 7th 2022 in Konstanz, DE. COSMOS is designed to provide attendees (COSMOnauts) from diverse fields (e.g., psychology, economics, neuroscience, biology, computer science, etc…) and career stages (master, PhD, postdoc, and junior PI) with the computational skills required to tackle emerging challenges in understanding social learning and collective behaviour. Taking advantage of the close collaboration networks and interdisciplinary expertise available at the Centre for the Advanced Study of Collective Behaviour (CASCB) in Konstanz, COSMOS will invite leading researchers from diverse disciplines as guest instructors who will mentor attendees’ own modelling projects during the School. In addition to providing hands-on instruction and mentorship for in-person attendees, our proposed hybrid format will also allow any number of remote participants to benefit from the openly accessible teaching materials and recorded talks. The goal of the students will be to develop a foundational understanding about how computational modeling can be a strong thread that unifies and advances the study of a wide range of social and collective phenomena. To apply, you will need to submit the following materials . | One page cover letter describing your motivation to attend the summer school and how you think it will will inform your research | Curriculum Vitae | One letter of recommendation | . Announcements . ",
+    "url": "http://localhost:4000/#apply-by-april-14th",
+    "relUrl": "/#apply-by-april-14th"
+  },"18": {
     "doc": "COSMOS",
     "title": "COSMOS",
     "content": " ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"17": {
+  },"19": {
     "doc": "Instructors",
     "title": "Organizers",
     "content": "Wataru Toyokawa . wataru.toyokawa[at]uni-konstanz[dot]de . Dr Wataru Toyokawa is a research scientist at the University of Konstanz, and is the PI of the “Collective Foraging and Social Search” project funded by CASCB. Using computational modelling and Bayesian statistical methods, coupled with real-time online behavioural experimentation, he is quantitatively approaching social behaviour and group dynamics, as well as their eco-evolutionary implications in humans and non-human animal societies. Charley Wu . charley.wu[at]uni-tuebingen[dot]de . Dr Charley Wu is the PI of the Human and Machine Cognition Lab at the University of Tübingen, which is jointly funded by the Excellence Cluster “Machine Learning for Science” and the Tübingen AI Center. Using a combination of statistical and machine learning models, his team seeks to understand the cognitive shortcuts that allow humans to learn efficiently and behave intelligently, both individually and in groups. Drawing on an extensive background in computational modeling of behavior, Charley will provide students with a gentle introduction to the fundamentals of computational modeling in social settings. ",
     "url": "http://localhost:4000/instructors/#organizers",
     "relUrl": "/instructors/#organizers"
-  },"18": {
+  },"20": {
     "doc": "Instructors",
     "title": "Instructors",
     "content": "Ariana Strandburg-Peshkin . arianasp[at]gmail[dot]de . Dr Ariana Strandburg-Peshkin is a research group leader jointly affiliated with the MPI-AB Ecology of Animal Societies Department and the University of Konstanz Biology Department. Her work focuses on revealing the mechanisms and consequences of collective behavior in biological and social systems. She is especially interested in understanding how animal groups make collective decisions and coordinate collective action, and in particular how these processes are affected by the social relationships between group members and the communication strategies they employ. Her group works across a range of study systems to tackle these questions, in close collaboration with researchers across a variety of disciplines. This lecture will give an overview of some of her work which aims to understand how animal and human groups make decisions in a group context, and how their interactions allow them to come to consensus on collective decisions. The talk will span a range of study species, and will highlight a few key methodological approaches that can be used to tackle these questions. Keywords: consensus decisions; collective animal movement; tracking; step selection model . Elena Miu . elena_miu[at]eva.mpg[dot]de . Dr Elena Miu is a cultural evolutionist interested in understanding the dynamics of cultural change across domains. Her work focuses on understanding cumulative cultural evolution using theoretical models and large-scale data. In her lecture, she will introduce a unique model of cumulative cultural evolution that allows us to study the drivers and dynamics of this phenomenon, as well as talk about an agent-based model she developed to investigate how cognitive learning mechanisms interact with task difficulty to shape cultural transmission in a complex cultural task. Keywords: Cumulative cultural evolution; innovation; recombination . Iain Couzin . icouzin[at]ab.mpg[dot]de . Professor Iain Couzin is Director of the Max Planck Institute of Animal Behavior, Department of Collective Behaviour and the Chair of Biodiversity and Collective Behaviour at the University of Konstanz, Germany and Previously he was a Full Professor in the Department of Ecology and Evolutionary Biology at Princeton University, and prior to that a Royal Society University Research Fellow in the Department of Zoology, University of Oxford, and a Junior Research Fellow in the Sciences at Balliol College, Oxford. His work aims to reveal the fundamental principles that underlie evolved collective behavior, and consequently his research includes the study of a wide range of biological systems, from insect swarms to fish schools and primate groups. Mark Ho . mark.ho.cs[at]gmail[dot]com . Dr Mark K Ho is a postdoctoral researcher in the Psychology and Computer Science departments at Princeton University. His research combines ideas from cognitive psychology and artificial intelligence to examine how meta-reasoning—the capacity to reason about and influence mental states—shapes everyday thought, action, and interaction. In his lecture, he will address an outstanding question: How can we develop concise, interpretable models that integrate inference, decision-making, and interaction between multiple agents and their shared environment over time? He will discuss work that studies human planning and interactive communication by building on formalisms such as reinforcement learning, automated planning, and probabilistic programming. Keywords: planning, communication, theory of mind, meta-cognition, reinforcement learning . Natalia Vélez . nvelez[at]fas.harvard[dot]edu . Dr Natalia Vélez is a postdoctoral fellow at Harvard University and an incoming assistant professor at Princeton University beginning in fall 2023. Her research examines the cognitive foundations of human collaboration at two scales: how individuals learn from and about their collaborators, and how communities self-organize for effective collaboration. In her talk, Natalia will review recent evidence that suggests that humans are not merely passive recipients of social information—rather, we can actively interpret others’ observable actions by reasoning about the unobservable mental states that produced them. This reasoning process can be formalized as probabilistic inference over a generative model of other minds. The talk will provide an overview of probabilistic models of social learning and will highlight key methodological issues in applying these models to understand human behavior. Keywords: theory of mind, Bayesian models, social learning . Ralf Kurvers . kurvers[at]mpib-berlin.mpg[dot]de . Dr Ralf Kurvers is the head of the research area Collective Intelligence at the Center for Adaptive Rationality at the Max Planck Institute for Human Development and an external PI at the Science of Intelligence Excellence Cluster. His work focuses on social and collective decision-making in human and non-human animals, combining both empirical and modeling approaches to unravel the cognitive mechanisms underlying individuals’ decision making in social contexts, and emerging collective dynamics. In his lecture, he will introduce a social drift–diffusion model that his team developed to capture dynamics of information cascades among interactive agents. Testing the model in human groups, he will show that the model can recover the dynamics of human social decision-making process, accurately capturing how individuals integrate personal and social information dynamically over time. Keywords: collective dynamics, evidence accumulation, drift diffusion models . Stefano Palminteri . stefano.palminteri[at]gmail[dot]com . Dr Stefano Palminteri is the head of the Human Reinforcement Learning team, at the Ecole Normale Supérieure, Paris. His team investigates the computational mechanisms underlying goal-directed and value-based behaviors through the lens of reinforcement learning theory. Most of his recent studies involve behavioral testing and computational modeling and identify biases in human reinforcement learning. In his lecture, he will talk about the computational bases of imitation in simple reinforcement learning contexts, contrasting two main hypothesis decision-biasing and value-shaping. Behavioral data were overall consistent with the value-shaping hypothesis, but also showed that participants downregulate imitation when disadvantageous. Such a meta-learning effect was efficiently captured by a similarity based modulation of the imitation rate. In a subsequent simulation study, his team investigated the normative properties (the “blessing”) of value-shaping imitation over decision-biasing and identified scenarios where it is detrimental (the “curse”). Keywords: decision-biasing; value-shaping; reinforcement learning; imitation . ",
     "url": "http://localhost:4000/instructors/",
     "relUrl": "/instructors/"
-  },"19": {
+  },"21": {
     "doc": "Instructors",
     "title": "Teaching Assistants",
     "content": "Nina Ehmann . nina.ehmann[at]uni-konstanz[dot]de . Silke Kegel . Silke.kegel[at]uni-konstanz[dot]de . ",
     "url": "http://localhost:4000/instructors/#teaching-assistants",
     "relUrl": "/instructors/#teaching-assistants"
-  },"20": {
-    "doc": "Schedule",
-    "title": "Weekly Schedule",
-    "content": ". | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | . | ",
-    "url": "http://localhost:4000/schedule/#weekly-schedule",
-    "relUrl": "/schedule/#weekly-schedule"
-  },"21": {
-    "doc": "Schedule",
-    "title": "Monday",
-    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
-    "url": "http://localhost:4000/schedule/",
-    "relUrl": "/schedule/"
   },"22": {
     "doc": "Schedule",
-    "title": "Tuesday",
-    "content": "| ",
+    "title": "Schedule",
+    "content": "Monday July 4th - Thursday July 7th, 2022 . All times are CET . | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | 6:00 PM | 6:30 PM | 7:00 PM | 7:30 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
   },"23": {
     "doc": "Schedule",
-    "title": "Wednesday",
-    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | ",
+    "title": "Monday",
+    "content": ". | Welcome reception and poster presentation 5:00 PM–7:00 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
   },"24": {
     "doc": "Schedule",
-    "title": "Thursday",
-    "content": "| ",
+    "title": "Tuesday",
+    "content": ". | Keynote: Modeling collective decision making 9:00 AM–10:00 AM Couzin | Tutorial 1: Generative models of social learning tasks 10:15 AM–11:15 AM Toyokawa &amp; Wu | The blessing and the curse of value-shaping imitation 11:30 AM–12:30 PM Palminteri | Lunch 12:30 PM–2:00 PM | Tutorial 2: Using models to simulate behavior 2:00 PM–3:30 PM Toyokawa &amp; Wu | Cumulative cultural: evolution the evolution of technology 3:45 PM–4:45 PM Miu | Mentorship session 5:00 PM–6:00 PM | Q&amp;A and Discussion 6:00 PM–7:00 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
   },"25": {
     "doc": "Schedule",
-    "title": "Friday",
-    "content": ". | Lecture 9:30 AM–10:30 AM 150 Wheeler | Section 11:30 AM–12:30 PM 310 Soda | Office Hours 12:30 PM–2:00 PM 271 Soda | . | . ",
+    "title": "Wednesday",
+    "content": ". | Communication and coordination in social groups 9:00 AM–10:00 AM Strandburg-Peshkin | Tutorial 3: Likelihoods, parameter estimation, and an introduction to Bayesian methods 10:15 AM–11:15 AM Toyokawa &amp; Wu | Tutorial 4: Model comparison 11:30 AM–12:30 PM Toyokawa &amp; Wu | Lunch 12:30 PM–2:00 PM | The cognitive mechanisms underlying information cascades 2:00 PM–3:00 PM Kurvers | Tutorial 5: Posterior checks 3:15 PM–4:15 PM Toyokawa &amp; Wu | Learning from other minds: Probabilistic models of human social learning 4:30 PM–5:30 PM Vélez | Mentorship 5:30 PM–7:00 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
   },"26": {
     "doc": "Schedule",
-    "title": "Schedule",
-    "content": " ",
+    "title": "Thursday",
+    "content": ". | Models of Multi-Agent Action and Inference 9:00 AM–10:00 AM Ho | Wrap up and lightning talks by students 10:15 AM–12:15 PM | . | . ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
   }
