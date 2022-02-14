@@ -29,6 +29,15 @@ heading_anchors: true
 permalink: pretty
 footer_content:
 
+header_pages:
+ - about.md
+ - application.md
+ - instructors.md
+ - materials.md
+ - schedule.md
+ - announcements.md
+ - FAQ.md
+
 # Collections for website data
 collections:
   instructors:

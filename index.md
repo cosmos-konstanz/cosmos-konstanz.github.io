@@ -12,6 +12,8 @@ seo:
 {{ site.description }}
 {: .fs-6 .fw-300 }
 
+<img src="{{site.baseurl}}/assets/images/bridge.JPG" title="Photo by Nina Ehmann">
+
 {% if site.announcements %}
 {{ site.announcements.last }}
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }

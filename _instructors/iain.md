@@ -1,6 +1,6 @@
 ---
 name: Iain Couzin
-role: Instructor
+role: Keynote
 email: icouzin[at]ab.mpg[dot]de
 website: http://collectivebehaviour.com/people/couzin-iain
 photo: Iain.jpg

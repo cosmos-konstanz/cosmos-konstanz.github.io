@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Instructors
+nav_order: 3
 description: A listing of all the course staff members.
 ---
 
@@ -16,6 +17,12 @@ description: A listing of all the course staff members.
 {{ staffer }}
 {% endfor %}
 
+## Keynote
+
+{% assign keynote = site.instructors | where: 'role', 'Keynote' %}
+{% for staffer in keynote %}
+{{ staffer }}
+{% endfor %}
 
 ## Instructors
 

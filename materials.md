@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Course Materials
+nav_order: 4
 description: Course materials
 ---
 
