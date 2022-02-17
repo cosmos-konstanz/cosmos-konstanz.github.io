@@ -18,16 +18,16 @@
     "relUrl": "/about/#objective"
   },"3": {
     "doc": "About",
-    "title": "Resources",
-    "content": "Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi. ",
-    "url": "http://localhost:4000/about/#resources",
-    "relUrl": "/about/#resources"
-  },"4": {
-    "doc": "About",
     "title": "Assignments",
     "content": "At the start of the summer school, students will give short poster presentations, during which they present their current work and receive feedback. ",
     "url": "http://localhost:4000/about/#assignments",
     "relUrl": "/about/#assignments"
+  },"4": {
+    "doc": "About",
+    "title": "Resources",
+    "content": "Coming soon . ",
+    "url": "http://localhost:4000/about/#resources",
+    "relUrl": "/about/#resources"
   },"5": {
     "doc": "Announcements",
     "title": "Announcements",

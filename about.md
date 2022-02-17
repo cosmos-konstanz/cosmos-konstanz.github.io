@@ -19,11 +19,12 @@ While human social learning is certainly distinct, there has also been a long-st
 
 To address this gap, we propose a summer school dedicated to developing the skills needed to communicate with researchers of social and collective behavior from diverse fields, **using computational models as a common language**. Computational modeling is becoming both more important and widely used in behavioural sciences. However, the mathematical framework and computational skills necessary to tackle the interdisciplinary challenges of modeling collective behaviour are not always readily accessible to early career researchers.
 
-
-## Resources
-
-Lacus viverra vitae congue eu. Suspendisse in est ante in nibh mauris cursus mattis. Nisl vel pretium lectus quam id leo in. Euismod lacinia at quis risus sed vulputate odio. Non enim praesent elementum facilisis. Aliquet sagittis id consectetur purus ut faucibus pulvinar elementum integer. Id interdum velit laoreet id donec ultrices tincidunt arcu. Urna molestie at elementum eu facilisis sed odio. Auctor urna nunc id cursus metus aliquam eleifend. Volutpat commodo sed egestas egestas fringilla phasellus. Libero nunc consequat interdum varius sit amet mattis. Imperdiet nulla malesuada pellentesque elit eget gravida cum sociis natoque. Tortor vitae purus faucibus ornare suspendisse. Auctor elit sed vulputate mi.
-
 ## Assignments
 
 At the start of the summer school, students will give short poster presentations, during which they present their current work and receive feedback. 
+
+## Resources
+
+Coming soon
+
+
