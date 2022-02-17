@@ -6,6 +6,7 @@ description: COSMOS schedule.
 ---
 
 # Schedule
+(Tentative schedule, subject to change)
 
 Monday July 4th - Thursday July 7th,
 
