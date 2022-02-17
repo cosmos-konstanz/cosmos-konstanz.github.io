@@ -6,18 +6,8 @@ description: >-
     Course policies and information.
 ---
 
+
 # About
-{:.no_toc}
-
-## Table of contents
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
----
-
-## About
 
 The Computational Summer school on Modeling Social and collective behavior (COSMOS) is designed to provide attendees (COSMOnauts) from diverse fields (e.g., psychology, economics, neuroscience, biology, computer science, etc...) and career stages (master, PhD, postdoc, and junior PI) with the computational skills required to tackle emerging challenges in understanding social learning and collective behaviour. Taking advantage of the close collaboration networks and interdisciplinary expertise available at the Centre for the Advanced Study of Collective Behaviour (CASCB) in Konstanz, COSMOS will invite leading researchers from diverse disciplines as guest [instructors](\instructors) who will mentor attendees' own modelling projects during the School. In addition to providing hands-on instruction and mentorship for in-person attendees, our proposed hybrid format will also allow any number of remote participants to benefit from the openly accessible [teaching materials](materials) and recorded talks. The goal of the students will be to develop a foundational understanding about how computational modeling can be a strong thread that unifies and advances the study of a wide range of social and collective phenomena.
 

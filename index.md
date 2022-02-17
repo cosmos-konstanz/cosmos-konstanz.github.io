@@ -1,7 +1,8 @@
 ---
 layout: home
 title: COSMOS
-nav_exclude: true
+nav_order: 1
+nav_exclude: false
 seo:
   type: Workshop
   name: Cosmos

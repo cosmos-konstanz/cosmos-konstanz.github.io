@@ -8,7 +8,7 @@ description: >-
 
 
 ## Prerequisites
-The target audience is attendees from diverse fields (e.g., psychology, economics, neuroscience, biology, computer science, etc…) and career stages (master, PhD, postdoc, and junior PI). 
+COSMOS is targeted towards attendees from diverse fields (e.g., psychology, economics, neuroscience, biology, computer science, etc…) and career stages (master, PhD, postdoc, and junior PI). 
 Participants should have a basic background knowledge in elementary statistics (e.g., probability theory) and programming in R in order to master the technical skills, but no prior experience with computational modeling is necessary.
 
 
@@ -19,5 +19,5 @@ To apply, you will need to submit the following materials:
 1. One letter of recommendation
 
 
-You can [submit your application here](#).
+You can submit your application here:[coming soon](#).
 
