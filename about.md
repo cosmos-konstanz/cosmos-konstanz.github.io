@@ -25,6 +25,6 @@ At the start of the summer school, students will give short poster presentations
 
 ## Resources
 
-Course materials and exercises will be made available as interactive code notebooks in the R programming language (see [Materials](materials). Participants will also have access to a browser-based programming environment, which will accessible to all operating systems and avoid any issues with dependencies.
+Course materials and exercises will be made available as interactive code notebooks in the R programming language (see [Materials](materials)). Participants will also have access to a browser-based programming environment, which will accessible to all operating systems and avoid any issues with dependencies.
 
 
