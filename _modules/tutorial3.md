@@ -3,5 +3,6 @@ title: "Tutorial 3: Likelihoods, parameter estimation, and an introduction to Ba
 ---
 
 Jul 6
-: [Course materials (code notebook)](#)
-  : [Exercises](#)
+  : Coming soon
+<!-- : [Course materials (code notebook)](#)
+    : [Exercises](#) -->

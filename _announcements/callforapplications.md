@@ -17,6 +17,6 @@ COSMOS is designed to provide attendees (COSMOnauts) from diverse fields (e.g., 
 1. Curriculum Vitae 
 1. One letter of recommendation
 
-You can submit your application here:[coming soon](#).
+You can submit your application here: [coming soon](#).
 
 <!-- CW: also whether they plan travel via rail or plane -->
