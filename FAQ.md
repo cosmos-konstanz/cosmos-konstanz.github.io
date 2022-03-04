@@ -30,6 +30,6 @@ By Train: “Bahnhof Konstanz” is the main train station. From there, you can 
 **A:** Although some basic background knowledge in elementary statistics (e.g., probability theory) and programming in R are required to master the technical skills, no prior experience with computational modeling is necessary. 
 
 
-If you have any additional questions, please [Contact Us](mailto:cosmos-konstanz@gmail.com)
+If you have any additional questions, please [Contact Us](mailto:cosmos.konstanz@gmail.com)
 
 <img src="{{site.baseurl}}/assets/images/konstanz.jpeg" title="Photo by Silke Johanna Kegel">
