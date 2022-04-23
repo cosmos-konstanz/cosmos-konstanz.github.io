@@ -55,7 +55,7 @@ schedule:
         end: 3:30 PM
         instructor: Toyokawa & Wu
         class: tutorial
-      - name: "Cumulative cultural: evolution the evolution of technology"
+      - name: "Cumulative cultural: the evolution of technology"
         start: 3:45 PM
         end: 4:45 PM
         instructor: Miu
