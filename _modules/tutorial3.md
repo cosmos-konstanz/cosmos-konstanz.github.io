@@ -1,5 +1,5 @@
 ---
-title: "Tutorial 3: Likelihoods, parameter estimation, and an introduction to Bayesian methods"
+title: "Tutorial 3: Model comparison and robustness"
 ---
 
 Jul 6

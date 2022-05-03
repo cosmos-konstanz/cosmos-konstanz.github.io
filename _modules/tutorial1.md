@@ -1,5 +1,5 @@
 ---
-title: "Tutorial 1: Generative models of social learning tasks"
+title: "Tutorial 1: Designing a social learning environment"
 ---
 
 Jul 5

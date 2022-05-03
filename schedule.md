@@ -6,11 +6,10 @@ description: COSMOS schedule.
 ---
 
 # Schedule
-(Tentative schedule, subject to change)
+Monday July 4th - Thursday July 7th, all times are CET (still subject to change)
 
-Monday July 4th - Thursday July 7th,
+[Sharable Google calendar link](https://calendar.google.com/calendar/u/4?cid=Y29zbW9zLmtvbnN0YW56QGdtYWlsLmNvbQ){:target="_blank"}
 
-All times are CET
 
 {% for schedule in site.schedules %}
 {{ schedule }}

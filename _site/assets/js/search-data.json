@@ -126,62 +126,50 @@
     "relUrl": "/materials/"
   },"21": {
     "doc": "Course Materials",
-    "title": "Tutorial 1: Generative models of social learning tasks",
+    "title": "Tutorial 1: Designing a social learning environment",
     "content": "Jul 5 Coming soon ",
-    "url": "http://localhost:4000/materials/#tutorial-1-generative-models-of-social-learning-tasks",
-    "relUrl": "/materials/#tutorial-1-generative-models-of-social-learning-tasks"
+    "url": "http://localhost:4000/materials/#tutorial-1-designing-a-social-learning-environment",
+    "relUrl": "/materials/#tutorial-1-designing-a-social-learning-environment"
   },"22": {
     "doc": "Course Materials",
-    "title": "Tutorial 2: Using models to simulate behavior",
-    "content": "Jul 5 Coming soon ",
-    "url": "http://localhost:4000/materials/#tutorial-2-using-models-to-simulate-behavior",
-    "relUrl": "/materials/#tutorial-2-using-models-to-simulate-behavior"
+    "title": "Tutorial 2:  Models of social and individual learning",
+    "content": "Jul 6 Coming soon ",
+    "url": "http://localhost:4000/materials/#tutorial-2-models-of-social-and-individual-learning",
+    "relUrl": "/materials/#tutorial-2-models-of-social-and-individual-learning"
   },"23": {
     "doc": "Course Materials",
-    "title": "Tutorial 3: Likelihoods, parameter estimation, and an introduction to Bayesian methods",
+    "title": "Tutorial 3: Model comparison and robustness",
     "content": "Jul 6 Coming soon ",
-    "url": "http://localhost:4000/materials/#tutorial-3-likelihoods-parameter-estimation-and-an-introduction-to-bayesian-methods",
-    "relUrl": "/materials/#tutorial-3-likelihoods-parameter-estimation-and-an-introduction-to-bayesian-methods"
+    "url": "http://localhost:4000/materials/#tutorial-3-model-comparison-and-robustness",
+    "relUrl": "/materials/#tutorial-3-model-comparison-and-robustness"
   },"24": {
-    "doc": "Course Materials",
-    "title": "Tutorial 4:  Model comparison",
-    "content": "Jul 6 Coming soon ",
-    "url": "http://localhost:4000/materials/#tutorial-4-model-comparison",
-    "relUrl": "/materials/#tutorial-4-model-comparison"
-  },"25": {
-    "doc": "Course Materials",
-    "title": "Tutorial 5:  Posterior checks",
-    "content": "Jul 6 Coming soon ",
-    "url": "http://localhost:4000/materials/#tutorial-5-posterior-checks",
-    "relUrl": "/materials/#tutorial-5-posterior-checks"
-  },"26": {
     "doc": "Schedule",
     "title": "Schedule",
-    "content": "(Tentative schedule, subject to change) . Monday July 4th - Thursday July 7th, . All times are CET . | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | 6:00 PM | 6:30 PM | 7:00 PM | 7:30 PM | . | ",
+    "content": "Monday July 4th - Thursday July 7th, all times are CET (still subject to change) . Sharable Google calendar link . | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | 6:00 PM | 6:30 PM | 7:00 PM | 7:30 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
-  },"27": {
+  },"25": {
     "doc": "Schedule",
     "title": "Monday",
     "content": ". | Welcome reception and poster presentation 5:00 PM–7:00 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
-  },"28": {
+  },"26": {
     "doc": "Schedule",
     "title": "Tuesday",
-    "content": ". | Keynote: Modeling collective decision making 9:00 AM–10:00 AM Couzin | Tutorial 1: Generative models of social learning tasks 10:15 AM–11:15 AM Toyokawa &amp; Wu | The blessing and the curse of value-shaping imitation 11:30 AM–12:30 PM Palminteri | Lunch 12:30 PM–2:00 PM | Tutorial 2: Using models to simulate behavior 2:00 PM–3:30 PM Toyokawa &amp; Wu | Cumulative cultural: evolution the evolution of technology 3:45 PM–4:45 PM Miu | Mentorship session 5:00 PM–6:00 PM | Q&amp;A and Discussion 6:00 PM–7:00 PM | . | ",
+    "content": ". | Keynote: Modeling collective decision making 9:00 AM–10:00 AM Couzin | Introduction &amp; Opening Remarks 10:00 AM–10:30 AM Toyokawa &amp; Wu | Coffee break 10:30 AM–11:00 AM | Tutorial 1: Designing a social learning environment 11:00 AM–12:00 PM Toyokawa &amp; Wu | Lunch 12:00 PM–1:30 PM | The blessing and the curse of value-shaping imitation 1:30 PM–2:30 PM Palminteri | Coffee break 2:30 PM–3:00 PM | Cumulative cultural: the evolution of technology 3:00 PM–4:00 PM Miu | Mentorship session 4:00 PM–5:30 PM | BBQ/Beer garden 7:00 PM–9:00 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
-  },"29": {
+  },"27": {
     "doc": "Schedule",
     "title": "Wednesday",
-    "content": ". | Communication and coordination in social groups 9:00 AM–10:00 AM Strandburg-Peshkin | Tutorial 3: Likelihoods, parameter estimation, and an introduction to Bayesian methods 10:15 AM–11:15 AM Toyokawa &amp; Wu | Tutorial 4: Model comparison 11:30 AM–12:30 PM Toyokawa &amp; Wu | Lunch 12:30 PM–2:00 PM | The cognitive mechanisms underlying information cascades 2:00 PM–3:00 PM Kurvers | Tutorial 5: Posterior checks 3:15 PM–4:15 PM Toyokawa &amp; Wu | Learning from other minds: Probabilistic models of human social learning 4:30 PM–5:30 PM Vélez | Mentorship 5:30 PM–7:00 PM | . | ",
+    "content": ". | Communication and coordination in social groups 9:00 AM–10:00 AM Strandburg-Peshkin | Coffee break 10:00 AM–10:30 AM | Tutorial 2: Models of social and individual learning 10:30 AM–12:30 PM Toyokawa &amp; Wu | Lunch 12:30 PM–2:00 PM | Learning from other minds: Probabilistic models of human social learning 2:00 PM–3:00 PM Vélez | Coffee break 3:00 PM–3:30 PM | Tutorial 3: Model comparison and robustness 3:30 PM–5:00 PM Toyokawa &amp; Wu | Mentorship 5:00 PM–6:30 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
-  },"30": {
+  },"28": {
     "doc": "Schedule",
     "title": "Thursday",
-    "content": ". | Models of Multi-Agent Action and Inference 9:00 AM–10:00 AM Ho | Wrap up and lightning talks by students 10:15 AM–12:15 PM | . | . ",
+    "content": ". | Models of Multi-Agent Action and Inference 9:00 AM–10:00 AM Ho | Coffee break 10:00 AM–10:30 AM | The cognitive mechanisms underlying information cascades 10:30 AM–11:30 AM Kurvers | Final Remarks 11:30 AM–12:00 PM Toyokawa &amp; Wu | . | . ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
   }

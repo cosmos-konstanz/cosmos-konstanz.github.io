@@ -1,6 +1,6 @@
 ---
-title: "Tutorial 2: Using models to simulate behavior"
+title: "Tutorial 2:  Models of social and individual learning"
 ---
 
-Jul 5
+Jul 6
   : Coming soon
