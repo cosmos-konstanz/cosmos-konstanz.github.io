@@ -89,24 +89,24 @@ schedule:
         class: other
       - name: "Tutorial 2: Models of social and individual learning"
         start: 10:30 AM
-        end: 12:30 PM
+        end: 12:00 PM
         instructor: Toyokawa & Wu
         class: tutorial
       - name: Lunch
-        start: 12:30 PM
-        end: 2:00 PM
+        start: 12:00 PM
+        end: 1:30 PM
         class: other
       - name:  "Learning from other minds: Probabilistic models of human social learning"
-        start: 2:00 PM 
-        end: 3:00 PM 
+        start: 1:30 PM 
+        end: 2:30 PM 
         class: lecture
         instructor: Vélez
       - name: Coffee break
-        start: 3:00 PM
-        end: 3:30 PM
+        start: 2:30 PM
+        end: 3:00 PM
         class: other
       - name: "Tutorial 3: Model comparison and robustness"
-        start: 3:30 PM
+        start: 3:00 PM
         end: 5:00 PM
         instructor: Toyokawa & Wu
         class: tutorial
