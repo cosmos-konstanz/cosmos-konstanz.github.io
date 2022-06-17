@@ -145,7 +145,7 @@
   },"24": {
     "doc": "Schedule",
     "title": "Schedule",
-    "content": "Monday July 4th - Thursday July 7th, all times are CET (still subject to change) . Sharable Google calendar link . | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | 6:00 PM | 6:30 PM | 7:00 PM | 7:30 PM | . | ",
+    "content": "Monday July 4th - Thursday July 7th, all times are CET . Add the schedule via this Google calendar link . | Monday: poster session/reception takes place in the A06 Foyer near the main entrance of the University of Konstanz) | Tuesday: all sessions are held in Wolkenstein-Saal im Kulturzentrum, Katzgasse 3. | Wenesday and Thursday: all sessions will be in Zebra Kino, Joseph-Belli-Weg 5. | . | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | 6:00 PM | 6:30 PM | 7:00 PM | 7:30 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
   },"25": {
