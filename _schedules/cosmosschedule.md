@@ -110,7 +110,7 @@ schedule:
         end: 5:00 PM
         instructor: Toyokawa & Wu
         class: tutorial
-      - name: Mentorship
+      - name: Mentorship session
         start: 5:00 PM 
         end: 6:30 PM 
         class: other
