@@ -127,19 +127,19 @@
   },"21": {
     "doc": "Course Materials",
     "title": "Tutorial 1: Designing a social learning environment",
-    "content": "Jul 5 Coming soon ",
+    "content": "Jul 5 Code Notebook ",
     "url": "http://localhost:4000/materials/#tutorial-1-designing-a-social-learning-environment",
     "relUrl": "/materials/#tutorial-1-designing-a-social-learning-environment"
   },"22": {
     "doc": "Course Materials",
     "title": "Tutorial 2:  Models of social and individual learning",
-    "content": "Jul 6 Coming soon ",
+    "content": "Jul 6 Code Notebook ",
     "url": "http://localhost:4000/materials/#tutorial-2-models-of-social-and-individual-learning",
     "relUrl": "/materials/#tutorial-2-models-of-social-and-individual-learning"
   },"23": {
     "doc": "Course Materials",
     "title": "Tutorial 3: Model comparison and robustness",
-    "content": "Jul 6 Coming soon ",
+    "content": "Jul 6 Code Notebook ",
     "url": "http://localhost:4000/materials/#tutorial-3-model-comparison-and-robustness",
     "relUrl": "/materials/#tutorial-3-model-comparison-and-robustness"
   },"24": {
@@ -163,7 +163,7 @@
   },"27": {
     "doc": "Schedule",
     "title": "Wednesday",
-    "content": ". | Communication and coordination in social groups 9:00 AM–10:00 AM Strandburg-Peshkin | Coffee break 10:00 AM–10:30 AM | Tutorial 2: Models of social and individual learning 10:30 AM–12:00 PM Toyokawa &amp; Wu | Lunch 12:00 PM–1:30 PM | Learning from other minds: Probabilistic models of human social learning 1:30 PM–2:30 PM Vélez | Coffee break 2:30 PM–3:00 PM | Tutorial 3: Model comparison and robustness 3:00 PM–5:00 PM Toyokawa &amp; Wu | Mentorship 5:00 PM–6:30 PM | . | ",
+    "content": ". | Communication and coordination in social groups 9:00 AM–10:00 AM Strandburg-Peshkin | Coffee break 10:00 AM–10:30 AM | Tutorial 2: Models of social and individual learning 10:30 AM–12:00 PM Toyokawa &amp; Wu | Lunch 12:00 PM–1:30 PM | Learning from other minds: Probabilistic models of human social learning 1:30 PM–2:30 PM Vélez | Coffee break 2:30 PM–3:00 PM | Tutorial 3: Model comparison and robustness 3:00 PM–5:00 PM Toyokawa &amp; Wu | Mentorship session 5:00 PM–6:30 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
   },"28": {
