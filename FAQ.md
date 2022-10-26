@@ -11,7 +11,7 @@ description: >-
 
 **Q: How much does it cost to participate at COSMOS?**
 
-**A:** All invited participants will receive free accommodations and a generous travel stipend that will cover all rail travel and full to partial coverage of flights. 
+**A:** Attendence is free for all accepted participants. In addition, we aim to provide free accomodations and a generous travel stipend to as many participants as possible, contingent on funding. The allocation of these funds will be to prioritize a diverse and inclusive summer school. 
 
 **Q: Will I be able to participate online**
 

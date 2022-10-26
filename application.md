@@ -18,6 +18,6 @@ To apply, you will need to submit the following materials:
 1. Curriculum Vitae
 1. One letter of recommendation
 
-
-You can submit your application by **April 14th**: [application portal](https://my.forms.app/form/621e3cf2acdd00578fe6f939){:target="_blank"}.
+We have been shortlisted for another round of funding to run COSMOS again in 2023. Please stay tuned for a call for applications.
+<!-- You can submit your application by **April 14th**: [application portal](https://my.forms.app/form/621e3cf2acdd00578fe6f939){:target="_blank"}. -->
 

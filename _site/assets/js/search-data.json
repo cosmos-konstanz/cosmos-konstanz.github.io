@@ -1,7 +1,7 @@
 {"0": {
     "doc": "FAQ",
     "title": "FAQ",
-    "content": "Q: How much does it cost to participate at COSMOS? . A: All invited participants will receive free accommodations and a generous travel stipend that will cover all rail travel and full to partial coverage of flights. Q: Will I be able to participate online . A: We anticipate an in-person meeting, but have a contingency plan for an online workshop if meeting in person is not possible. Q: How do I get to Konstanz? . A: By Plane: The nearest airports are “Bodensee-Airport” in Friedrichshafen and Zürich Airport. From Zürich airport, you can take a train in the airport to Konstanz in 1 to 1.5hrs. By Train: “Bahnhof Konstanz” is the main train station. From there, you can take “Bus Nr. 9” to get to the University. Q: What skills or prior experience should I have in order to participate? . A: Although some basic background knowledge in elementary statistics (e.g., probability theory) and programming in R are required to master the technical skills, no prior experience with computational modeling is necessary. If you have any additional questions, please Contact Us . ",
+    "content": "Q: How much does it cost to participate at COSMOS? . A: Attendence is free for all accepted participants. In addition, we aim to provide free accomodations and a generous travel stipend to as many participants as possible, contingent on funding. The allocation of these funds will be to prioritize a diverse and inclusive summer school. Q: Will I be able to participate online . A: We anticipate an in-person meeting, but have a contingency plan for an online workshop if meeting in person is not possible. Q: How do I get to Konstanz? . A: By Plane: The nearest airports are “Bodensee-Airport” in Friedrichshafen and Zürich Airport. From Zürich airport, you can take a train in the airport to Konstanz in 1 to 1.5hrs. By Train: “Bahnhof Konstanz” is the main train station. From there, you can take “Bus Nr. 9” to get to the University. Q: What skills or prior experience should I have in order to participate? . A: Although some basic background knowledge in elementary statistics (e.g., probability theory) and programming in R are required to master the technical skills, no prior experience with computational modeling is necessary. If you have any additional questions, please Contact Us . ",
     "url": "http://localhost:4000/FAQ/",
     "relUrl": "/FAQ/"
   },"1": {
@@ -31,7 +31,7 @@
   },"5": {
     "doc": "About",
     "title": "Applications",
-    "content": "Submit your application by April 14th. Visit the application page). page for details. ",
+    "content": "We have been shortlisted for another round of funding to run COSMOS again in 2023. Please stay tuned for a call for applications. ",
     "url": "http://localhost:4000/about/#applications",
     "relUrl": "/about/#applications"
   },"6": {
@@ -42,134 +42,158 @@
     "relUrl": "/announcements/"
   },"7": {
     "doc": "Announcements",
+    "title": "COSMOS 2023?",
+    "content": "Oct 26 &middot; 0 min read ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"8": {
+    "doc": "Announcements",
+    "title": "Shortlisted for funding",
+    "content": "We have been shortlisted for another round of funding to host COSMOS 2023. Stay tuned for more information! . ",
+    "url": "http://localhost:4000/announcements/#shortlisted-for-funding",
+    "relUrl": "/announcements/#shortlisted-for-funding"
+  },"9": {
+    "doc": "Announcements",
     "title": "Call for applications",
     "content": "Feb 12 &middot; 1 min read ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"8": {
+  },"10": {
     "doc": "Announcements",
     "title": "Apply by April 14th",
     "content": "We invite you to apply to the Computational Summer school on Modeling Social and collective behavior (COSMOS) taking place from July 4th - July 7th 2022 in Konstanz, DE. COSMOS is designed to provide attendees (COSMOnauts) from diverse fields (e.g., psychology, economics, neuroscience, biology, computer science, etc…) and career stages (master, PhD, postdoc, and junior PI) with the computational skills required to tackle emerging challenges in understanding social learning and collective behaviour. Taking advantage of the close collaboration networks and interdisciplinary expertise available at the Centre for the Advanced Study of Collective Behaviour (CASCB) in Konstanz, COSMOS will invite leading researchers from diverse disciplines as guest instructors who will mentor attendees’ own modelling projects during the School. In addition to providing hands-on instruction and mentorship for in-person attendees, our proposed hybrid format will also allow any number of remote participants to benefit from the openly accessible teaching materials) and recorded talks. The goal of the students will be to develop a foundational understanding about how computational modeling can be a strong thread that unifies and advances the study of a wide range of social and collective phenomena. To apply, you will need to submit the following materials . | One page cover letter describing your motivation to attend the summer school and how you think it will will inform your research | Curriculum Vitae | One letter of recommendation | . You can submit your application by April 14th: application portal. ",
     "url": "http://localhost:4000/announcements/#apply-by-april-14th",
     "relUrl": "/announcements/#apply-by-april-14th"
-  },"9": {
+  },"11": {
     "doc": "Application Portal",
     "title": "Prerequisites",
     "content": "COSMOS is targeted towards attendees from diverse fields (e.g., psychology, economics, neuroscience, biology, computer science, etc…) and career stages (master, PhD, postdoc, and junior PI). Participants should have a basic background knowledge in elementary statistics (e.g., probability theory) and programming in R in order to master the technical skills, but no prior experience with computational modeling is necessary. ",
     "url": "http://localhost:4000/application/#prerequisites",
     "relUrl": "/application/#prerequisites"
-  },"10": {
+  },"12": {
     "doc": "Application Portal",
     "title": "Application",
-    "content": "To apply, you will need to submit the following materials: . | One page cover letter describing your motivation to attend the summer school and how you think it will will inform your research | Curriculum Vitae | One letter of recommendation | . You can submit your application by April 14th: application portal. ",
+    "content": "To apply, you will need to submit the following materials: . | One page cover letter describing your motivation to attend the summer school and how you think it will will inform your research | Curriculum Vitae | One letter of recommendation | . We have been shortlisted for another round of funding to run COSMOS again in 2023. Please stay tuned for a call for applications. ",
     "url": "http://localhost:4000/application/#application",
     "relUrl": "/application/#application"
-  },"11": {
+  },"13": {
     "doc": "Application Portal",
     "title": "Application Portal",
     "content": " ",
     "url": "http://localhost:4000/application/",
     "relUrl": "/application/"
-  },"12": {
+  },"14": {
     "doc": "COSMOS",
     "title": "COSMOS Konstanz",
     "content": "The Computational Summer school on Modeling Social and collective behavior (COSMOS) - Konstanz, DE July 4th - 7th . ",
     "url": "http://localhost:4000/#cosmos-konstanz",
     "relUrl": "/#cosmos-konstanz"
-  },"13": {
+  },"15": {
     "doc": "COSMOS",
-    "title": "Call for applications",
-    "content": "Feb 12 &middot; 1 min read ",
+    "title": "COSMOS 2023?",
+    "content": "Oct 26 &middot; 0 min read ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"14": {
+  },"16": {
     "doc": "COSMOS",
-    "title": "Apply by April 14th",
-    "content": "We invite you to apply to the Computational Summer school on Modeling Social and collective behavior (COSMOS) taking place from July 4th - July 7th 2022 in Konstanz, DE. COSMOS is designed to provide attendees (COSMOnauts) from diverse fields (e.g., psychology, economics, neuroscience, biology, computer science, etc…) and career stages (master, PhD, postdoc, and junior PI) with the computational skills required to tackle emerging challenges in understanding social learning and collective behaviour. Taking advantage of the close collaboration networks and interdisciplinary expertise available at the Centre for the Advanced Study of Collective Behaviour (CASCB) in Konstanz, COSMOS will invite leading researchers from diverse disciplines as guest instructors who will mentor attendees’ own modelling projects during the School. In addition to providing hands-on instruction and mentorship for in-person attendees, our proposed hybrid format will also allow any number of remote participants to benefit from the openly accessible teaching materials) and recorded talks. The goal of the students will be to develop a foundational understanding about how computational modeling can be a strong thread that unifies and advances the study of a wide range of social and collective phenomena. To apply, you will need to submit the following materials . | One page cover letter describing your motivation to attend the summer school and how you think it will will inform your research | Curriculum Vitae | One letter of recommendation | . You can submit your application by April 14th: application portal. Announcements . ",
-    "url": "http://localhost:4000/#apply-by-april-14th",
-    "relUrl": "/#apply-by-april-14th"
-  },"15": {
+    "title": "Shortlisted for funding",
+    "content": "We have been shortlisted for another round of funding to host COSMOS 2023. Stay tuned for more information! . Announcements . ",
+    "url": "http://localhost:4000/#shortlisted-for-funding",
+    "relUrl": "/#shortlisted-for-funding"
+  },"17": {
     "doc": "COSMOS",
     "title": "COSMOS",
     "content": " ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"16": {
+  },"18": {
     "doc": "Instructors",
     "title": "Organizers",
     "content": "Wataru Toyokawa . wataru.toyokawa[at]uni-konstanz[dot]de . Dr Wataru Toyokawa is a research scientist at the University of Konstanz, and is the PI of the “Collective Foraging and Social Search” project funded by CASCB. Using computational modelling and Bayesian statistical methods, coupled with real-time online behavioural experimentation, he is quantitatively approaching social behaviour and group dynamics, as well as their eco-evolutionary implications in humans and non-human animal societies. Charley Wu . charley.wu[at]uni-tuebingen[dot]de . Dr Charley Wu is the PI of the Human and Machine Cognition Lab at the University of Tübingen, which is jointly funded by the Excellence Cluster “Machine Learning for Science” and the Tübingen AI Center. Using a combination of statistical and machine learning models, his team seeks to understand the cognitive shortcuts that allow humans to learn efficiently and behave intelligently, both individually and in groups. Drawing on an extensive background in computational modeling of behavior, Charley will provide students with a gentle introduction to the fundamentals of computational modeling in social settings. ",
     "url": "http://localhost:4000/instructors/#organizers",
     "relUrl": "/instructors/#organizers"
-  },"17": {
+  },"19": {
     "doc": "Instructors",
     "title": "Keynote",
     "content": "Iain Couzin . icouzin[at]ab.mpg[dot]de . Professor Iain Couzin is Director of the Max Planck Institute of Animal Behavior, Department of Collective Behaviour and the Chair of Biodiversity and Collective Behaviour at the University of Konstanz, Germany and Previously he was a Full Professor in the Department of Ecology and Evolutionary Biology at Princeton University, and prior to that a Royal Society University Research Fellow in the Department of Zoology, University of Oxford, and a Junior Research Fellow in the Sciences at Balliol College, Oxford. His work aims to reveal the fundamental principles that underlie evolved collective behavior, and consequently his research includes the study of a wide range of biological systems, from insect swarms to fish schools and primate groups. ",
     "url": "http://localhost:4000/instructors/#keynote",
     "relUrl": "/instructors/#keynote"
-  },"18": {
+  },"20": {
     "doc": "Instructors",
     "title": "Instructors",
     "content": "Ariana Strandburg-Peshkin . arianasp[at]gmail[dot]de . Dr Ariana Strandburg-Peshkin is a research group leader jointly affiliated with the MPI-AB Ecology of Animal Societies Department and the University of Konstanz Biology Department. Her work focuses on revealing the mechanisms and consequences of collective behavior in biological and social systems. She is especially interested in understanding how animal groups make collective decisions and coordinate collective action, and in particular how these processes are affected by the social relationships between group members and the communication strategies they employ. Her group works across a range of study systems to tackle these questions, in close collaboration with researchers across a variety of disciplines. This lecture will give an overview of some of her work which aims to understand how animal and human groups make decisions in a group context, and how their interactions allow them to come to consensus on collective decisions. The talk will span a range of study species, and will highlight a few key methodological approaches that can be used to tackle these questions. Keywords: consensus decisions; collective animal movement; tracking; step selection model . Elena Miu . elena_miu[at]eva.mpg[dot]de . Dr Elena Miu is a cultural evolutionist interested in understanding the dynamics of cultural change across domains. Her work focuses on understanding cumulative cultural evolution using theoretical models and large-scale data. In her lecture, she will introduce a unique model of cumulative cultural evolution that allows us to study the drivers and dynamics of this phenomenon, as well as talk about an agent-based model she developed to investigate how cognitive learning mechanisms interact with task difficulty to shape cultural transmission in a complex cultural task. Keywords: Cumulative cultural evolution; innovation; recombination . Mark Ho . mark.ho.cs[at]gmail[dot]com . Dr Mark K Ho is a postdoctoral researcher in the Psychology and Computer Science departments at Princeton University. His research combines ideas from cognitive psychology and artificial intelligence to examine how meta-reasoning—the capacity to reason about and influence mental states—shapes everyday thought, action, and interaction. In his lecture, he will address an outstanding question: How can we develop concise, interpretable models that integrate inference, decision-making, and interaction between multiple agents and their shared environment over time? He will discuss work that studies human planning and interactive communication by building on formalisms such as reinforcement learning, automated planning, and probabilistic programming. Keywords: planning, communication, theory of mind, meta-cognition, reinforcement learning . Natalia Vélez . nvelez[at]fas.harvard[dot]edu . Dr Natalia Vélez is a postdoctoral fellow at Harvard University and an incoming assistant professor at Princeton University beginning in fall 2023. Her research examines the cognitive foundations of human collaboration at two scales: how individuals learn from and about their collaborators, and how communities self-organize for effective collaboration. In her talk, Natalia will review recent evidence that suggests that humans are not merely passive recipients of social information—rather, we can actively interpret others’ observable actions by reasoning about the unobservable mental states that produced them. This reasoning process can be formalized as probabilistic inference over a generative model of other minds. The talk will provide an overview of probabilistic models of social learning and will highlight key methodological issues in applying these models to understand human behavior. Keywords: theory of mind, Bayesian models, social learning . Ralf Kurvers . kurvers[at]mpib-berlin.mpg[dot]de . Dr Ralf Kurvers is the head of the research area Collective Intelligence at the Center for Adaptive Rationality at the Max Planck Institute for Human Development and an external PI at the Science of Intelligence Excellence Cluster. His work focuses on social and collective decision-making in human and non-human animals, combining both empirical and modeling approaches to unravel the cognitive mechanisms underlying individuals’ decision making in social contexts, and emerging collective dynamics. In his lecture, he will introduce a social drift–diffusion model that his team developed to capture dynamics of information cascades among interactive agents. Testing the model in human groups, he will show that the model can recover the dynamics of human social decision-making process, accurately capturing how individuals integrate personal and social information dynamically over time. Keywords: collective dynamics, evidence accumulation, drift diffusion models . Stefano Palminteri . stefano.palminteri[at]gmail[dot]com . Dr Stefano Palminteri is the head of the Human Reinforcement Learning team, at the Ecole Normale Supérieure, Paris. His team investigates the computational mechanisms underlying goal-directed and value-based behaviors through the lens of reinforcement learning theory. Most of his recent studies involve behavioral testing and computational modeling and identify biases in human reinforcement learning. In his lecture, he will talk about the computational bases of imitation in simple reinforcement learning contexts, contrasting two main hypothesis decision-biasing and value-shaping. Behavioral data were overall consistent with the value-shaping hypothesis, but also showed that participants downregulate imitation when disadvantageous. Such a meta-learning effect was efficiently captured by a similarity based modulation of the imitation rate. In a subsequent simulation study, his team investigated the normative properties (the “blessing”) of value-shaping imitation over decision-biasing and identified scenarios where it is detrimental (the “curse”). Keywords: decision-biasing; value-shaping; reinforcement learning; imitation . ",
     "url": "http://localhost:4000/instructors/",
     "relUrl": "/instructors/"
-  },"19": {
+  },"21": {
     "doc": "Instructors",
     "title": "Teaching Assistants",
     "content": "Alexandra Witt . alexandra.witt[at]uni-tuebingen[dot]de . Alexandra Witt received her B.Sc. in Psychology from the Technical University of Braunschweig. Striving to expand her understanding of human behaviour and cognition to its neural underpinnings, she subsequently joined the IMPRS Neuroscience in Göttingen, which is where she received her MSc. During this time, she organized a statistics tutorial for her peers. For her PhD project in the Human and Machine Cognition Lab, she has been modelling social learning in both Python and R since she started in October 2021. Nina Ehmann . nina.ehmann[at]uni-konstanz[dot]de . Nina Ehmann is a student research assistant for Social Psychology and Decision Sciences at the University of Konstanz. After studies in Mathematics and Philosophy, she is now in the third semester of her bachelor’s in Psychology. Following her interest in decision-making under risk, she is currently working on a project regarding the perception and communication of cumulative risks together with her colleagues. During the summer school, she will mainly assist with various planning aspects. Silke Johanna Kegel . Silke.kegel[at]uni-konstanz[dot]de . Silke Johanna Kegel is a student research assistant for Social Psychology and Decision Sciences at the University of Konstanz and currently finishing her third semester in psychology. One of her interests is psychology of environmental decision making and sustainable behavior, which began during her internship in the Communications and Marketing department at Pearson College UWC in Canada. She will assist with all kinds of planning aspects of COSMOS. ",
     "url": "http://localhost:4000/instructors/#teaching-assistants",
     "relUrl": "/instructors/#teaching-assistants"
-  },"20": {
+  },"22": {
     "doc": "Course Materials",
     "title": "Course Materials",
     "content": " ",
     "url": "http://localhost:4000/materials/",
     "relUrl": "/materials/"
-  },"21": {
-    "doc": "Course Materials",
-    "title": "Tutorial 1: Designing a social learning environment",
-    "content": "Jul 5 Code Notebook ",
-    "url": "http://localhost:4000/materials/#tutorial-1-designing-a-social-learning-environment",
-    "relUrl": "/materials/#tutorial-1-designing-a-social-learning-environment"
-  },"22": {
-    "doc": "Course Materials",
-    "title": "Tutorial 2:  Models of social and individual learning",
-    "content": "Jul 6 Code Notebook ",
-    "url": "http://localhost:4000/materials/#tutorial-2-models-of-social-and-individual-learning",
-    "relUrl": "/materials/#tutorial-2-models-of-social-and-individual-learning"
   },"23": {
     "doc": "Course Materials",
+    "title": "Tutorial 1: Designing a social learning environment",
+    "content": "Code Notebook . ",
+    "url": "http://localhost:4000/materials/#tutorial-1-designing-a-social-learning-environment",
+    "relUrl": "/materials/#tutorial-1-designing-a-social-learning-environment"
+  },"24": {
+    "doc": "Course Materials",
+    "title": "Tutorial 2:  Models of social and individual learning",
+    "content": "Code Notebook . ",
+    "url": "http://localhost:4000/materials/#tutorial-2-models-of-social-and-individual-learning",
+    "relUrl": "/materials/#tutorial-2-models-of-social-and-individual-learning"
+  },"25": {
+    "doc": "Course Materials",
     "title": "Tutorial 3: Model comparison and robustness",
-    "content": "Jul 6 Code Notebook ",
+    "content": "Code Notebook . ",
     "url": "http://localhost:4000/materials/#tutorial-3-model-comparison-and-robustness",
     "relUrl": "/materials/#tutorial-3-model-comparison-and-robustness"
-  },"24": {
+  },"26": {
+    "doc": "Course Materials",
+    "title": "Talk recordings",
+    "content": "Stefano Palminteri - The blessing and curse of value shaping imitation . Elena Miu - Cumulative culture: the evolution of technology . Ariana Strandburg-Peshkin - Communication &amp; collective behaviour in animal societies . Natalia Vélez - Learning from other minds: Probabilistic models of human social learning . Mark Ho - Models of multi-agent action and inference . Ralf Kurvers - The cognitive mechanisms underlying information cascades . ",
+    "url": "http://localhost:4000/materials/#talk-recordings",
+    "relUrl": "/materials/#talk-recordings"
+  },"27": {
     "doc": "Schedule",
-    "title": "Schedule",
-    "content": "Monday July 4th - Thursday July 7th, all times are CET . Add the schedule via this Google calendar link . | Monday: poster session/reception takes place in the A06 Foyer near the main entrance of the University of Konstanz) | Tuesday: all sessions are held in Wolkenstein-Saal im Kulturzentrum, Katzgasse 3. | Wenesday and Thursday: all sessions will be in Zebra Kino, Joseph-Belli-Weg 5. | . | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | 6:00 PM | 6:30 PM | 7:00 PM | 7:30 PM | . | ",
-    "url": "http://localhost:4000/schedule/",
-    "relUrl": "/schedule/"
-  },"25": {
+    "title": "COSMOS 2022 Schedule",
+    "content": "Monday July 4th - Thursday July 7th, all times are CET . Add the schedule via this Google calendar link . | Monday: poster session/reception takes place in the A06 Foyer near the main entrance of the University of Konstanz) | Tuesday: all sessions are held in Wolkenstein-Saal im Kulturzentrum, Katzgasse 3. The Biergarten is held at Hafenhalle, Hafenstraße 10 | Wenesday and Thursday: all sessions will be in Zebra Kino, Joseph-Belli-Weg 5. | . | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | 6:00 PM | 6:30 PM | 7:00 PM | 7:30 PM | . | ",
+    "url": "http://localhost:4000/schedule/#cosmos-2022-schedule",
+    "relUrl": "/schedule/#cosmos-2022-schedule"
+  },"28": {
     "doc": "Schedule",
     "title": "Monday",
     "content": ". | Welcome reception and poster presentation 5:00 PM–7:00 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
-  },"26": {
+  },"29": {
     "doc": "Schedule",
     "title": "Tuesday",
     "content": ". | Keynote: Modeling collective decision making 9:00 AM–10:00 AM Couzin | Introduction &amp; Opening Remarks 10:00 AM–10:30 AM Toyokawa &amp; Wu | Coffee break 10:30 AM–11:00 AM | Tutorial 1: Designing a social learning environment 11:00 AM–12:00 PM Toyokawa &amp; Wu | Lunch 12:00 PM–1:30 PM | The blessing and the curse of value-shaping imitation 1:30 PM–2:30 PM Palminteri | Coffee break 2:30 PM–3:00 PM | Cumulative cultural: the evolution of technology 3:00 PM–4:00 PM Miu | Mentorship session 4:00 PM–5:30 PM | BBQ/Beer garden 7:00 PM–9:00 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
-  },"27": {
+  },"30": {
     "doc": "Schedule",
     "title": "Wednesday",
     "content": ". | Communication and coordination in social groups 9:00 AM–10:00 AM Strandburg-Peshkin | Coffee break 10:00 AM–10:30 AM | Tutorial 2: Models of social and individual learning 10:30 AM–12:00 PM Toyokawa &amp; Wu | Lunch 12:00 PM–1:30 PM | Learning from other minds: Probabilistic models of human social learning 1:30 PM–2:30 PM Vélez | Coffee break 2:30 PM–3:00 PM | Tutorial 3: Model comparison and robustness 3:00 PM–5:00 PM Toyokawa &amp; Wu | Mentorship session 5:00 PM–6:30 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
-  },"28": {
+  },"31": {
     "doc": "Schedule",
     "title": "Thursday",
     "content": ". | Models of Multi-Agent Action and Inference 9:00 AM–10:00 AM Ho | Coffee break 10:00 AM–10:30 AM | The cognitive mechanisms underlying information cascades 10:30 AM–11:30 AM Kurvers | Final Remarks 11:30 AM–12:00 PM Toyokawa &amp; Wu | . | . ",
+    "url": "http://localhost:4000/schedule/",
+    "relUrl": "/schedule/"
+  },"32": {
+    "doc": "Schedule",
+    "title": "Schedule",
+    "content": " ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
   }

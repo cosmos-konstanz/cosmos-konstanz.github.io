@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: COSMOS 
 tagline: COSMOS Konstanz
-description: The Computational Summer school on Modeling Social and collective behavior (COSMOS) - Konstanz, DE July 4th - 7th
+description: The Computational Summer school on Modeling Social and collective behavior (COSMOS) - Konstanz, DE
 author: Charley Wu and Wataru Toyokawa
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://cosmos-konstanz.github.io' # the base hostname & protocol for your site, e.g. http://example.com

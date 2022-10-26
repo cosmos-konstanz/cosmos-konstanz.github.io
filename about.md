@@ -28,7 +28,7 @@ At the start of the summer school, students will give short poster presentations
 Course materials and exercises will be made available as interactive code notebooks in the R programming language (see [Materials]({{ site.baseurl }}{% link materials.md %})). Participants will also have access to a browser-based programming environment, which will accessible to all operating systems and avoid any issues with dependencies.
 
 ## Applications
-
-Submit your application by **April 14th**. Visit the [application page]({{ site.baseurl }}{% link application.md %})). page for details.
+We have been shortlisted for another round of funding to run COSMOS again in 2023. Please stay tuned for a call for applications.
+<!-- Submit your application by **April 14th**. Visit the [application page]({{ site.baseurl }}{% link application.md %}). page for details. -->
 
 
