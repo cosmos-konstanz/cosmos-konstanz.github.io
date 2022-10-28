@@ -85,7 +85,7 @@
   },"14": {
     "doc": "COSMOS",
     "title": "COSMOS Konstanz",
-    "content": "The Computational Summer school on Modeling Social and collective behavior (COSMOS) - Konstanz, DE July 4th - 7th . ",
+    "content": "The Computational Summer school on Modeling Social and collective behavior (COSMOS) - Konstanz, DE . ",
     "url": "http://localhost:4000/#cosmos-konstanz",
     "relUrl": "/#cosmos-konstanz"
   },"15": {
@@ -157,7 +157,7 @@
   },"26": {
     "doc": "Course Materials",
     "title": "Talk recordings",
-    "content": "Stefano Palminteri - The blessing and curse of value shaping imitation . Elena Miu - Cumulative culture: the evolution of technology . Ariana Strandburg-Peshkin - Communication &amp; collective behaviour in animal societies . Natalia Vélez - Learning from other minds: Probabilistic models of human social learning . Mark Ho - Models of multi-agent action and inference . Ralf Kurvers - The cognitive mechanisms underlying information cascades . ",
+    "content": "Iain Couzin - Employing Immersive Virtual Reality and Machine Learning (*Substitute recording due to technical issues) . Stefano Palminteri - The blessing and curse of value shaping imitation . Elena Miu - Cumulative culture: the evolution of technology . Ariana Strandburg-Peshkin - Communication &amp; collective behaviour in animal societies . Natalia Vélez - Learning from other minds: Probabilistic models of human social learning . Mark Ho - Models of multi-agent action and inference . Ralf Kurvers - The cognitive mechanisms underlying information cascades . ",
     "url": "http://localhost:4000/materials/#talk-recordings",
     "relUrl": "/materials/#talk-recordings"
   },"27": {

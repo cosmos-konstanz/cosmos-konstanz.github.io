@@ -13,6 +13,12 @@ description: Course materials
 
 # Talk recordings
 
+
+**Iain Couzin - Employing Immersive Virtual Reality and Machine Learning**<br>
+*Substitute recording due to technical issues
+{% include youtube.html id='ei373CSxEKQ' %}
+
+
 **Stefano Palminteri - The blessing and curse of value shaping imitation**
 {% include youtube.html id='etQVRd6N8dM' %}
 
