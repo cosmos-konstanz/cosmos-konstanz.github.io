@@ -1,6 +1,6 @@
 ---
 name: Charley Wu
-role: Organizer2
+role: Organizer1
 email: charley.wu[at]uni-tuebingen[dot]de
 website: https://hmc-lab.com/
 photo: charley.png

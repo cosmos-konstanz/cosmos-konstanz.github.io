@@ -1,6 +1,6 @@
 ---
 name: Wataru Toyokawa
-role: Organizer1
+role: Organizer2
 email: wataru.toyokawa[at]uni-konstanz[dot]de   
 website: https://sites.google.com/site/watarutoyokawa/home
 photo: wataru.jpeg

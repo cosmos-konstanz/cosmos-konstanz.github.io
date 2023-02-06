@@ -31,15 +31,15 @@ schedule:
         class: other
   - name: Tuesday
     events:
-      - name: "Keynote: Modeling collective decision making"
+      - name: "Keynote: Building a Science of the Sociome: Tracking how individual interactions scale to complex societies"
         start: 9:00 AM
         end: 10:00 AM
-        instructor: Couzin
+        instructor: Crofoot
         class: lecture
       - name: "Introduction & Opening Remarks"
         start: 10:00 AM
         end: 10:30 AM
-        instructor: Toyokawa & Wu
+        instructor: Wu & Toyokawa
         class: lecture
       - name: Coffee break
         start: 10:30 AM
@@ -48,92 +48,109 @@ schedule:
       - name: "Tutorial 1: Designing a social learning environment"
         start: 11:00 AM
         end: 12:00 PM
-        instructor: Toyokawa & Wu
+        instructor: Wu & Toyokawa
         class: tutorial
       - name: Lunch
         start: 12:00 PM
         end: 1:30 PM
         class: other
-      - name: The blessing and the curse of value-shaping imitation
+      - name: Coordination and collective behavior
         start: 1:30 PM
         end: 2:30 PM
-        instructor: Palminteri
+        instructor: Hawkins
         class: lecture
       - name: Coffee break
         start: 2:30 PM
         end: 3:00 PM
         class: other
-      - name: "Cumulative cultural: the evolution of technology"
+      - name: "Tutorial 2: Models of social and individual learning"
         start: 3:00 PM
         end: 4:00 PM
-        instructor: Miu
-        class: lecture
-      - name: Mentorship session
+        instructor: Wu & Toyokawa
+        class: tutorial
+      - name: Agent-based models of cultural evolution
         start: 4:00 PM 
-        end: 5:30 PM 
+        end: 5:00 PM 
+        instructor: Wu & Toyokawa
+        class: lecture
+      - name: Introduction to group projects
+        start: 5:00 PM 
+        end: 6:00 PM 
+        instructor: Wu & Toyokawa
         class: other
-      - name: BBQ/Beer garden
+      - name: Dinner
         start: 7:00 PM 
         end: 9:00 PM 
         class: other
   - name: Wednesday
     events:
-      - name: Communication and coordination in social groups
+      - name: Learning to coordinate on shared task abstractions
         start: 9:00 AM
         end: 10:00 AM
-        instructor: Strandburg-Peshkin
+        instructor: Fan
         class: lecture
       - name: Coffee break
         start: 10:00 AM
         end: 10:30 AM
         class: other
-      - name: "Tutorial 2: Models of social and individual learning"
+      - name: "Tutorial 3: Model comparison and robustness"
         start: 10:30 AM
         end: 12:00 PM
-        instructor: Toyokawa & Wu
+        instructor: Wu & Toyokawa 
         class: tutorial
-      - name: Lunch
+      - name: Lunch and group work
         start: 12:00 PM
-        end: 1:30 PM
-        class: other
-      - name:  "Learning from other minds: Probabilistic models of human social learning"
-        start: 1:30 PM 
-        end: 2:30 PM 
-        class: lecture
-        instructor: Vélez
-      - name: Coffee break
-        start: 2:30 PM
         end: 3:00 PM
         class: other
-      - name: "Tutorial 3: Model comparison and robustness"
+      - name: Coffee break
         start: 3:00 PM
-        end: 5:00 PM
-        instructor: Toyokawa & Wu
-        class: tutorial
+        end: 3:30 PM
+        class: other
+      - name:  "Cultural Transmission"
+        start: 3:30 PM 
+        end: 4:30 PM 
+        class: lecture
+        instructor: Kandler
+      - name:  "Collective computation across scales of biological organisation"
+        start: 4:30 PM 
+        end: 5:30 PM 
+        class: lecture
+        instructor: Sridhar
       - name: Mentorship session
-        start: 5:00 PM 
-        end: 6:30 PM 
+        start: 5:30 PM 
+        end: 8:00 PM 
         class: other
   - name: Thursday
     events:
-      - name: "Models of Multi-Agent Action and Inference"
+      - name: "The computational structure of human Theory of Mind"
         start: 9:00 AM
         end: 10:00 AM
-        instructor: Ho
+        instructor: Jara-Ettinger
         class: lecture
       - name: Coffee break
         start: 10:00 AM
         end: 10:30 AM
         class: other
-      - name: The cognitive mechanisms underlying information cascades
+      - name: "Tutorial 4: Cracking hierarchical Bayesian computational modeling with Stan"
         start: 10:30 AM
-        end: 11:30 AM
-        instructor: Kurvers
-        class: lecture
-      - name: "Final Remarks"
-        start: 11:30 AM
         end: 12:00 PM
-        instructor: Toyokawa & Wu
+        instructor: Zhang
+        class: tutorial
+      - name: Lunch and group work
+        start: 12:00 PM
+        end: 3:30 PM
+        class: lecture
+      - name: Coffee break
+        start: 3:30 PM
+        end: 4:00 PM
+        class: other
+      - name: Group presentations
+        start: 4:00 PM
+        end: 6:00 PM
+        class: other
+      - name: "Final Remarks"
+        start: 6:00 PM
+        end: 6:30 PM
         class: other
  
 ---
