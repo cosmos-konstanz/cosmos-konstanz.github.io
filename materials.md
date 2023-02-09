@@ -4,8 +4,11 @@ title: Course Materials
 nav_order: 4
 description: Course materials
 ---
+# COSMOS 2023 Course Materials
+*Coming soon*
 
-# Course Materials
+
+# COSMOS 2022 Course Materials
 
 {% for module in site.modules %}
 {{ module }}
