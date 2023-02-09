@@ -19,16 +19,18 @@ While human social learning is certainly distinct, there has also been a long-st
 
 To address this gap, we propose a summer school dedicated to developing the skills needed to communicate with researchers of social and collective behavior from diverse fields, **using computational models as a common language**. Computational modeling is becoming both more important and widely used in behavioural sciences. However, the mathematical framework and computational skills necessary to tackle the interdisciplinary challenges of modeling collective behaviour are not always readily accessible to early career researchers.
 
+For our second iteration in 2023, we have invited an exciting new line-up of speakers across a diverse spectrum of approaches for modeling social and collective behavior in humans and animals. Some new concepts include communication ([McCarthy et al,. 2021](https://arxiv.org/pdf/2107.00077.pdf){:target="_blank"}), coordination ([Hawkins et al., 2022](https://doi.org/10.1037/rev0000348){:target="_blank"}), the geometry of collective decision-making ([Sridhar et al., 2021](https://www.pnas.org/doi/10.1073/pnas.2102157118){:target="_blank"}), and both agent-based models ([Acerbi et al., 2023](https://osf.io/32v6a){:target="_blank"}) and population-level dynamics of cultural transmission ([Kandler & Crema, 2019](https://link.springer.com/chapter/10.1007/978-3-030-11117-5_5){:target="_blank"}).  
+
 ## Assignments and Mentorship
 
-At the start of the summer school, students will give short poster presentations, during which they present their current work and receive feedback. Additionally, all participants will be matched with a faculty member as a mentor, with multiple mentorship sessions for hands-on feedback.
+At the start of the summer school, students will give short poster presentations, during which they present their current work and receive feedback. Additionally, all participants will be matched with a faculty member as a mentor, where mentorship sessions provide opportunities for hands-on feedback. And new for 2023, we are introducing hands-on project work sessions that will provide participants with the opportunity to directly apply the skills that they have learned under the close supervision of instructors, using a number of prepared projects with open source data and code. 
 
 ## Resources
 
-Course materials and exercises will be made available as interactive code notebooks in the R programming language (see [Materials]({{ site.baseurl }}{% link materials.md %})). Participants will also have access to a browser-based programming environment, which will accessible to all operating systems and avoid any issues with dependencies.
+Course materials and exercises will be made available as interactive code notebooks in the R programming language (see [Materials]({{site.baseurl}}{% link materials.md %})). Participants will also have access to a browser-based programming environment, which will accessible to all operating systems and avoid any issues with dependencies.
 
 ## Applications
-We have been shortlisted for another round of funding to run COSMOS again in 2023. Please stay tuned for a call for applications.
+The call for applications will be posted shortly. Please visit the [application page]({{ site.baseurl }}{% link application.md %}) page for details from 2022.
 <!-- Submit your application by **April 14th**. Visit the [application page]({{ site.baseurl }}{% link application.md %}). page for details. -->
 
 

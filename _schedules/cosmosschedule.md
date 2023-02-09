@@ -23,13 +23,13 @@ timeline:
   - '7:00 PM'
   - '7:30 PM'
 schedule:
-  - name: Monday
+  - name: Tuesday
     events:
       - name: Welcome reception and poster presentation
         start: 5:00 PM
         end: 7:00 PM
         class: other
-  - name: Tuesday
+  - name: Wednesday
     events:
       - name: "Keynote: Modeling collective decision making"
         start: 9:00 AM
@@ -76,7 +76,7 @@ schedule:
         start: 7:00 PM 
         end: 9:00 PM 
         class: other
-  - name: Wednesday
+  - name: Thursday
     events:
       - name: Communication and coordination in social groups
         start: 9:00 AM
@@ -114,7 +114,7 @@ schedule:
         start: 5:00 PM 
         end: 6:30 PM 
         class: other
-  - name: Thursday
+  - name: Friday
     events:
       - name: "Models of Multi-Agent Action and Inference"
         start: 9:00 AM
