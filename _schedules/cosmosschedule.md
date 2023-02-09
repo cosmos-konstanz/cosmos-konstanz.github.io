@@ -31,7 +31,7 @@ schedule:
         class: other
   - name: Wednesday
     events:
-      - name: "Keynote: Building a Science of the Sociome: Tracking how individual interactions scale to complex societies"
+      - name: "Keynote: Building a Science of the Sociome"
         start: 9:00 AM
         end: 10:00 AM
         instructor: Crofoot
@@ -71,7 +71,7 @@ schedule:
       - name: Agent-based models of cultural evolution
         start: 4:00 PM 
         end: 5:00 PM 
-        instructor: Wu & Toyokawa
+        instructor: Acerbi
         class: lecture
       - name: Introduction to group projects
         start: 5:00 PM 
@@ -139,7 +139,7 @@ schedule:
       - name: Lunch and group work
         start: 12:00 PM
         end: 3:30 PM
-        class: lecture
+        class: other
       - name: Coffee break
         start: 3:30 PM
         end: 4:00 PM

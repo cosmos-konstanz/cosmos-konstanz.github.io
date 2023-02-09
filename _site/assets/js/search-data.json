@@ -138,65 +138,77 @@
     "relUrl": "/instructors/"
   },"23": {
     "doc": "Course Materials",
-    "title": "Course Materials",
-    "content": " ",
-    "url": "http://localhost:4000/materials/",
-    "relUrl": "/materials/"
+    "title": "COSMOS 2023 Course Materials",
+    "content": "Coming soon . ",
+    "url": "http://localhost:4000/materials/#cosmos-2023-course-materials",
+    "relUrl": "/materials/#cosmos-2023-course-materials"
   },"24": {
+    "doc": "Course Materials",
+    "title": "COSMOS 2022 Course Materials",
+    "content": " ",
+    "url": "http://localhost:4000/materials/#cosmos-2022-course-materials",
+    "relUrl": "/materials/#cosmos-2022-course-materials"
+  },"25": {
     "doc": "Course Materials",
     "title": "Tutorial 1: Designing a social learning environment",
     "content": "Code Notebook . ",
     "url": "http://localhost:4000/materials/#tutorial-1-designing-a-social-learning-environment",
     "relUrl": "/materials/#tutorial-1-designing-a-social-learning-environment"
-  },"25": {
+  },"26": {
     "doc": "Course Materials",
     "title": "Tutorial 2:  Models of social and individual learning",
     "content": "Code Notebook . ",
     "url": "http://localhost:4000/materials/#tutorial-2-models-of-social-and-individual-learning",
     "relUrl": "/materials/#tutorial-2-models-of-social-and-individual-learning"
-  },"26": {
+  },"27": {
     "doc": "Course Materials",
     "title": "Tutorial 3: Model comparison and robustness",
     "content": "Code Notebook . ",
     "url": "http://localhost:4000/materials/#tutorial-3-model-comparison-and-robustness",
     "relUrl": "/materials/#tutorial-3-model-comparison-and-robustness"
-  },"27": {
+  },"28": {
     "doc": "Course Materials",
     "title": "Talk recordings",
     "content": "Iain Couzin - Employing Immersive Virtual Reality and Machine Learning *Substitute recording due to technical issues . Stefano Palminteri - The blessing and curse of value shaping imitation . Elena Miu - Cumulative culture: the evolution of technology . Ariana Strandburg-Peshkin - Communication &amp; collective behaviour in animal societies . Natalia Vélez - Learning from other minds: Probabilistic models of human social learning . Mark Ho - Models of multi-agent action and inference . Ralf Kurvers - The cognitive mechanisms underlying information cascades . ",
     "url": "http://localhost:4000/materials/#talk-recordings",
     "relUrl": "/materials/#talk-recordings"
-  },"28": {
-    "doc": "Schedule",
-    "title": "COSMOS 2022 Schedule",
-    "content": "Monday July 4th - Thursday July 7th, all times are CET . Add the schedule via this Google calendar link . | Monday: poster session/reception takes place in the A06 Foyer near the main entrance of the University of Konstanz) | Tuesday: all sessions are held in Wolkenstein-Saal im Kulturzentrum, Katzgasse 3. The Biergarten is held at Hafenhalle, Hafenstraße 10 | Wenesday and Thursday: all sessions will be in Zebra Kino, Joseph-Belli-Weg 5. | . | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | 6:00 PM | 6:30 PM | 7:00 PM | 7:30 PM | . | ",
-    "url": "http://localhost:4000/schedule/#cosmos-2022-schedule",
-    "relUrl": "/schedule/#cosmos-2022-schedule"
   },"29": {
-    "doc": "Schedule",
-    "title": "Monday",
-    "content": ". | Welcome reception and poster presentation 5:00 PM–7:00 PM | . | ",
-    "url": "http://localhost:4000/schedule/",
-    "relUrl": "/schedule/"
+    "doc": "Course Materials",
+    "title": "Course Materials",
+    "content": " ",
+    "url": "http://localhost:4000/materials/",
+    "relUrl": "/materials/"
   },"30": {
     "doc": "Schedule",
-    "title": "Tuesday",
-    "content": ". | Keynote: Modeling collective decision making 9:00 AM–10:00 AM Couzin | Introduction &amp; Opening Remarks 10:00 AM–10:30 AM Toyokawa &amp; Wu | Coffee break 10:30 AM–11:00 AM | Tutorial 1: Designing a social learning environment 11:00 AM–12:00 PM Toyokawa &amp; Wu | Lunch 12:00 PM–1:30 PM | The blessing and the curse of value-shaping imitation 1:30 PM–2:30 PM Palminteri | Coffee break 2:30 PM–3:00 PM | Cumulative cultural: the evolution of technology 3:00 PM–4:00 PM Miu | Mentorship session 4:00 PM–5:30 PM | BBQ/Beer garden 7:00 PM–9:00 PM | . | ",
-    "url": "http://localhost:4000/schedule/",
-    "relUrl": "/schedule/"
+    "title": "COSMOS 2022 Schedule",
+    "content": "Tuesday July 4th - Friday July 7th, all times are CET . | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | 6:00 PM | 6:30 PM | 7:00 PM | 7:30 PM | . | ",
+    "url": "http://localhost:4000/schedule/#cosmos-2022-schedule",
+    "relUrl": "/schedule/#cosmos-2022-schedule"
   },"31": {
     "doc": "Schedule",
-    "title": "Wednesday",
-    "content": ". | Communication and coordination in social groups 9:00 AM–10:00 AM Strandburg-Peshkin | Coffee break 10:00 AM–10:30 AM | Tutorial 2: Models of social and individual learning 10:30 AM–12:00 PM Toyokawa &amp; Wu | Lunch 12:00 PM–1:30 PM | Learning from other minds: Probabilistic models of human social learning 1:30 PM–2:30 PM Vélez | Coffee break 2:30 PM–3:00 PM | Tutorial 3: Model comparison and robustness 3:00 PM–5:00 PM Toyokawa &amp; Wu | Mentorship session 5:00 PM–6:30 PM | . | ",
+    "title": "Tuesday",
+    "content": ". | Welcome reception and poster presentation 5:00 PM–7:00 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
   },"32": {
     "doc": "Schedule",
-    "title": "Thursday",
-    "content": ". | Models of Multi-Agent Action and Inference 9:00 AM–10:00 AM Ho | Coffee break 10:00 AM–10:30 AM | The cognitive mechanisms underlying information cascades 10:30 AM–11:30 AM Kurvers | Final Remarks 11:30 AM–12:00 PM Toyokawa &amp; Wu | . | . ",
+    "title": "Wednesday",
+    "content": ". | Keynote: Building a Science of the Sociome 9:00 AM–10:00 AM Crofoot | Introduction &amp; Opening Remarks 10:00 AM–10:30 AM Wu &amp; Toyokawa | Coffee break 10:30 AM–11:00 AM | Tutorial 1: Designing a social learning environment 11:00 AM–12:00 PM Wu &amp; Toyokawa | Lunch 12:00 PM–1:30 PM | Coordination and collective behavior 1:30 PM–2:30 PM Hawkins | Coffee break 2:30 PM–3:00 PM | Tutorial 2: Models of social and individual learning 3:00 PM–4:00 PM Wu &amp; Toyokawa | Agent-based models of cultural evolution 4:00 PM–5:00 PM Acerbi | Introduction to group projects 5:00 PM–6:00 PM Wu &amp; Toyokawa | Dinner 7:00 PM–9:00 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
   },"33": {
+    "doc": "Schedule",
+    "title": "Thursday",
+    "content": ". | Learning to coordinate on shared task abstractions 9:00 AM–10:00 AM Fan | Coffee break 10:00 AM–10:30 AM | Tutorial 3: Model comparison and robustness 10:30 AM–12:00 PM Wu &amp; Toyokawa | Lunch and group work 12:00 PM–3:00 PM | Coffee break 3:00 PM–3:30 PM | Cultural Transmission 3:30 PM–4:30 PM Kandler | Collective computation across scales of biological organisation 4:30 PM–5:30 PM Sridhar | Mentorship session 5:30 PM–8:00 PM | . | ",
+    "url": "http://localhost:4000/schedule/",
+    "relUrl": "/schedule/"
+  },"34": {
+    "doc": "Schedule",
+    "title": "Friday",
+    "content": ". | The computational structure of human Theory of Mind 9:00 AM–10:00 AM Jara-Ettinger | Coffee break 10:00 AM–10:30 AM | Tutorial 4: Cracking hierarchical Bayesian computational modeling with Stan 10:30 AM–12:00 PM Zhang | Lunch and group work 12:00 PM–3:30 PM | Coffee break 3:30 PM–4:00 PM | Group presentations 4:00 PM–6:00 PM | Final Remarks 6:00 PM–6:30 PM | . | . ",
+    "url": "http://localhost:4000/schedule/",
+    "relUrl": "/schedule/"
+  },"35": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
