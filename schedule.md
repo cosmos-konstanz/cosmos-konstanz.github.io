@@ -7,6 +7,7 @@ description: COSMOS 2022 schedule.
 
 # COSMOS 2022 Schedule
 Tuesday July 4th - Friday July 7th, all times are CET
+*Preliminary schedule, subject to change*
 
 <!-- [Add the schedule via this Google calendar link](https://calendar.google.com/calendar/u/4?cid=Y29zbW9zLmtvbnN0YW56QGdtYWlsLmNvbQ){:target="_blank"}
 
