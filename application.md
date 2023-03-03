@@ -12,13 +12,13 @@ COSMOS is targeted towards attendees from diverse fields (e.g., psychology, econ
 
 Participants should have a basic background knowledge in elementary statistics (e.g., probability theory) and programming in R in order to master the technical skills, but no prior experience with computational modeling is necessary.
 
+## Free to apply, free accomodations, and travel stipends
+It is free to attend, and successful applications will be provided free shared accomodations. In addition, we will provide travel stipends for ~15 attendees on the basis of merit and need.  
 
-## Application
-To apply, you will need to submit the following materials:
-1. One page cover letter describing your motivation to attend the summer school and how you think it will will inform your research
-1. Curriculum Vitae
+## To apply, you will need to submit the following materials as a single pdf
+
+1. One page cover letter describing your motivation to attend the summer school and how you think it will inform your research
+1. Curriculum Vitae 
 1. One letter of recommendation
 
-We will accepting applications for COSMOS 2023 shortly, with an application deadline of April 23. Please stay tuned for a call for applications.
-<!-- You can submit your application by **April 14th**: [application portal](https://my.forms.app/form/621e3cf2acdd00578fe6f939){:target="_blank"}. -->
-
+You can submit your application by **April 14th**: [application portal](https://my.forms.app/form/64021072090187c47423a060){:target="_blank"}.
