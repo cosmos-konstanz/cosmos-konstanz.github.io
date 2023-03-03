@@ -30,7 +30,6 @@ At the start of the summer school, students will give short poster presentations
 Course materials and exercises will be made available as interactive code notebooks in the R programming language (see [Materials]({{site.baseurl}}{% link materials.md %})). Participants will also have access to a browser-based programming environment, which will accessible to all operating systems and avoid any issues with dependencies.
 
 ## Applications
-The call for applications will be posted shortly. Please visit the [application page]({{ site.baseurl }}{% link application.md %}) page for details from 2022.
-<!-- Submit your application by **April 14th**. Visit the [application page]({{ site.baseurl }}{% link application.md %}). page for details. -->
+Submit your application by **April 14th**. Visit the [application page]({{ site.baseurl }}{% link application.md %}). page for details. 
 
 
