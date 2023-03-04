@@ -19,4 +19,3 @@ seo:
 {{ site.announcements.last }}
 [Announcements](announcements.md){: .btn .btn-outline .fs-3 }
 {% endif %}
-

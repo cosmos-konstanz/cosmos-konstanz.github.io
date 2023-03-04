@@ -2,7 +2,7 @@
 layout: page
 title: Schedule
 nav_order: 5
-description: COSMOS 2022 schedule.
+description: COSMOS 2023 schedule.
 ---
 
 # COSMOS 2022 Schedule
