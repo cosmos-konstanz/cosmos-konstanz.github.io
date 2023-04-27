@@ -1,0 +1,16 @@
+current directory: /Users/charleywu/git/cosmos-konstanz.github.io/vendor/cache/ruby/2.7.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+/Users/charleywu/.rbenv/versions/2.7.6/bin/ruby -I /Users/charleywu/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20230427-91475-1z899a.rb extconf.rb
+checking for -lstdc++... yes
+creating Makefile
+
+current directory: /Users/charleywu/git/cosmos-konstanz.github.io/vendor/cache/ruby/2.7.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make "DESTDIR=" clean
+
+current directory: /Users/charleywu/git/cosmos-konstanz.github.io/vendor/cache/ruby/2.7.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make "DESTDIR="
+compiling unf.cc
+linking shared-object unf_ext.bundle
+
+current directory: /Users/charleywu/git/cosmos-konstanz.github.io/vendor/cache/ruby/2.7.0/gems/unf_ext-0.0.8.2/ext/unf_ext
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 unf_ext.bundle ./.gem.20230427-91475-1h9r1q8
