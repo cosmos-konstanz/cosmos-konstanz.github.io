@@ -65,17 +65,17 @@ schedule:
         class: other
       - name: "Tutorial 2: Models of social and individual learning"
         start: 3:00 PM
-        end: 4:00 PM
+        end: 4:30 PM
         instructor: Wu & Toyokawa
         class: tutorial
       - name: Agent-based models of cultural evolution
-        start: 4:00 PM 
-        end: 5:00 PM 
+        start: 4:30 PM 
+        end: 5:30 PM 
         instructor: Acerbi
         class: lecture
       - name: Introduction to group projects
-        start: 5:00 PM 
-        end: 6:00 PM 
+        start: 5:30 PM 
+        end: 6:30 PM 
         instructor: Wu & Toyokawa
         class: other
       - name: Dinner
