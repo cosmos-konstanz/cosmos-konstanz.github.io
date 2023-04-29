@@ -1,0 +1,16 @@
+current directory: /Users/charleywu/git/cosmos-konstanz.github.io/vendor/cache/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+/Users/charleywu/.rbenv/versions/2.7.6/bin/ruby -I /Users/charleywu/.rbenv/versions/2.7.6/lib/ruby/2.7.0 -r ./siteconf20230427-91475-1eurl28.rb extconf.rb
+creating Makefile
+
+current directory: /Users/charleywu/git/cosmos-konstanz.github.io/vendor/cache/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make "DESTDIR=" clean
+
+current directory: /Users/charleywu/git/cosmos-konstanz.github.io/vendor/cache/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make "DESTDIR="
+compiling ruby_http_parser.c
+compiling ryah_http_parser.c
+linking shared-object ruby_http_parser.bundle
+
+current directory: /Users/charleywu/git/cosmos-konstanz.github.io/vendor/cache/ruby/2.7.0/gems/http_parser.rb-0.8.0/ext/ruby_http_parser
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 ruby_http_parser.bundle ./.gem.20230427-91475-5pkr23

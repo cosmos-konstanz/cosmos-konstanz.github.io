@@ -1,0 +1,11 @@
+"clang -o conftest -I/Users/charleywu/.rbenv/versions/2.7.6/include/ruby-2.7.0/x86_64-darwin18 -I/Users/charleywu/.rbenv/versions/2.7.6/include/ruby-2.7.0/ruby/backward -I/Users/charleywu/.rbenv/versions/2.7.6/include/ruby-2.7.0 -I. -I/Users/charleywu/.rbenv/versions/2.7.6/include  -D_XOPEN_SOURCE -D_DARWIN_C_SOURCE -D_DARWIN_UNLIMITED_SELECT -D_REENTRANT   -g -O2 -fno-common -pipe conftest.c  -L. -L/Users/charleywu/.rbenv/versions/2.7.6/lib -L. -L/Users/charleywu/.rbenv/versions/2.7.6/lib  -fstack-protector-strong -L/usr/local/lib     -lruby.2.7   "
+checked program was:
+/* begin */
+1: #include "ruby.h"
+2: 
+3: int main(int argc, char **argv)
+4: {
+5:   return !!argv[argc];
+6: }
+/* end */
+

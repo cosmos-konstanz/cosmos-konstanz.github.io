@@ -81,3 +81,10 @@ plugins:
 
 sass:
     sass_dir: _sass
+
+exclude:
+  - tmp/
+  - vendor/
+  - Gemfile
+  - Gemfile.lock
+  - ...
