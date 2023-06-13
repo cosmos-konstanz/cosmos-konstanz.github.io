@@ -54,10 +54,10 @@ schedule:
         start: 12:00 PM
         end: 1:30 PM
         class: other
-      - name: Coordination and collective behavior
+      - name: Agent-based models of cultural evolution
         start: 1:30 PM
         end: 2:30 PM
-        instructor: Hawkins
+        instructor: Acerbi
         class: lecture
       - name: Coffee break
         start: 2:30 PM
@@ -68,10 +68,10 @@ schedule:
         end: 4:30 PM
         instructor: Wu & Toyokawa
         class: tutorial
-      - name: Agent-based models of cultural evolution
+      - name: Coordination and collective behavior
         start: 4:30 PM 
         end: 5:30 PM 
-        instructor: Acerbi
+        instructor: Hawkins
         class: lecture
       - name: Introduction to group projects
         start: 5:30 PM 
