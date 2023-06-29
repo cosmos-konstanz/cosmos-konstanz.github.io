@@ -78,7 +78,7 @@ schedule:
         end: 6:30 PM 
         instructor: Wu & Toyokawa
         class: other
-      - name: Dinner
+      - name: Biergarten
         start: 7:00 PM 
         end: 9:00 PM 
         class: other
