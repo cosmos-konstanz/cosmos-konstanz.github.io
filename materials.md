@@ -4,17 +4,29 @@ title: Course Materials
 nav_order: 4
 description: Course materials
 ---
-# COSMOS 2023 Course Materials
-*Coming soon*
-
-
-# COSMOS 2022 Course Materials
+# Course Materials
 
 {% for module in site.modules %}
 {{ module }}
 {% endfor %}
 
-# Talk recordings
+# COSMOS 2023 - Talk recordings
+
+*Coming soon*
+
+# COSMOS 2022 - Talk recordings
+
+**Tutorial 1: Designing a social learning environment -- Wataru Toyokawa & Charley Wu**
+
+{% include youtube.html id='RAK2e7S6F1U' %}
+
+**Tutorial 2:  Models of social and individual learning -- Charley Wu & Wataru Toyokawa**
+
+{% include youtube.html id='O7pAiUD7QOY' %}
+
+**Tutorial 3: Model comparison and robustness -- Charley Wu & Wataru Toyokawa**
+
+{% include youtube.html id='33oQ62VAAJM' %}
 
 
 **Iain Couzin - Employing Immersive Virtual Reality and Machine Learning**<br>
