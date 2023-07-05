@@ -89,3 +89,12 @@ Figure out what evolutionary process underlies the distribution of a population'
 - Beginner friendly
 - Model code written in R, Matlab, or Julia
 - Data and code are [here](https://github.com/AlexandraWitt/PatternToProcess_COSMOS)
+
+**P9: From pattern to process**
+(based on [Sridhar et al. (2023)](https://royalsocietypublishing.org/doi/pdf/10.1098/rstb.2022.0062))
+
+Explore the effect of different pairwise predictors on leadership / social influence within groups of golden shiner fish and/or pigeons.
+
+- Beginner friendly
+- Model code written in Python
+- Data are [here](https://owncloud.gwdg.de/index.php/s/qH9ARKUWpgkfluZ) and code is [here](https://github.com/vivekhsridhar/INFL_2022)
