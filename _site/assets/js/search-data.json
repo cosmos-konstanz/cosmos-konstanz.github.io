@@ -42,215 +42,227 @@
     "relUrl": "/announcements/"
   },"7": {
     "doc": "Announcements",
+    "title": "Hiatus until 2025",
+    "content": "Dec 1 &middot; 0 min read ",
+    "url": "http://localhost:4000/announcements/",
+    "relUrl": "/announcements/"
+  },"8": {
+    "doc": "Announcements",
+    "title": "COSMOS 2025",
+    "content": "Dear future COSMOnauts, we are taking a brief hiatus in 2024 while Wataru relocates to a new position at Riken in Tokyo. In the meantime, we will be writing a tutorial paper and looking for future funding sources to return in 2025. Stay tuned! . ",
+    "url": "http://localhost:4000/announcements/#cosmos-2025",
+    "relUrl": "/announcements/#cosmos-2025"
+  },"9": {
+    "doc": "Announcements",
     "title": "Welcome to COSMOS 2023",
     "content": "Jul 1 &middot; 0 min read ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"8": {
+  },"10": {
     "doc": "Announcements",
     "title": "COSMOS 2023 starting July 4th!",
     "content": "We look forward to welcoming you to the Computational Summer school on Modeling Social and collective behavior (COSMOS) taking place from July 4th - July 7th 2023 in Konstanz, DE. Please take a look at the schedule to familiarize yourself with what will be taking place over this week. We have already updated the teaching materials, where the publicly accessible code notebooks you find there will be companions to the tutorials we are running. Have a great trip and see you in Konstanz! . ",
     "url": "http://localhost:4000/announcements/#cosmos-2023-starting-july-4th",
     "relUrl": "/announcements/#cosmos-2023-starting-july-4th"
-  },"9": {
+  },"11": {
     "doc": "Announcements",
     "title": "Call for applications",
     "content": "Mar 6 &middot; 2 min read ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"10": {
+  },"12": {
     "doc": "Announcements",
     "title": "Apply by April 14th",
     "content": "We invite you to apply to the Computational Summer school on Modeling Social and collective behavior (COSMOS) taking place from July 4th - July 7th 2023 in Konstanz, DE. COSMOS is designed to provide attendees (COSMOnauts) from diverse fields (e.g., psychology, economics, neuroscience, biology, computer science, etc…) and career stages (masters, PhD, postdoc, and junior PI) with the computational skills required to tackle emerging challenges in understanding social learning and collective behaviour. Taking advantage of the close collaboration networks and interdisciplinary expertise available at the Centre for the Advanced Study of Collective Behaviour (CASCB) in Konstanz, COSMOS will invite leading researchers from diverse disciplines as guest instructors who will mentor attendees’ own modelling projects during the School. In addition to providing hands-on instruction and mentorship for in-person attendees, we also publish openly accessible teaching materials) and recorded talks. The goal of the students will be to develop a foundational understanding about how computational modeling can be a strong thread that unifies and advances the study of a wide range of social and collective phenomena. Attendees will benefit from tutorials teaching the fundamentals of computational modeling in social and cultural settings, attend talks by leading researchers from around the world, and gain career advice during mentorship sessions. New for 2023, we will also have group projects, where participants can directly apply their new knowledge on a number of provided dataset under the supervision of our instructors. COSMOS 2023 is free to attend, and successful applications will be provided free shared accomodations. In addition, we will provide travel stipends for ~15 attendees on the basis of merit and need. ",
     "url": "http://localhost:4000/announcements/#apply-by-april-14th",
     "relUrl": "/announcements/#apply-by-april-14th"
-  },"11": {
+  },"13": {
     "doc": "Announcements",
     "title": "To apply, you will need to submit the following materials as a single pdf",
     "content": ". | One page cover letter describing your motivation to attend the summer school and how you think it will inform your research | Curriculum Vitae | One letter of recommendation | . You can submit your application by April 14th: application portal. ",
     "url": "http://localhost:4000/announcements/#to-apply-you-will-need-to-submit-the-following-materials-as-a-single-pdf",
     "relUrl": "/announcements/#to-apply-you-will-need-to-submit-the-following-materials-as-a-single-pdf"
-  },"12": {
+  },"14": {
     "doc": "Announcements",
     "title": "COSMOS 2023 is now official!",
     "content": "Feb 6 &middot; 0 min read ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"13": {
+  },"15": {
     "doc": "Announcements",
     "title": "Shortlisted for funding",
     "content": "We are excited to announce we have secured funding to host COSMOS again in 2023. This next iteration features a whole new set of faculty, improved hands-on . ",
     "url": "http://localhost:4000/announcements/#shortlisted-for-funding",
     "relUrl": "/announcements/#shortlisted-for-funding"
-  },"14": {
+  },"16": {
     "doc": "Announcements",
     "title": "COSMOS 2023?",
     "content": "Oct 26 &middot; 0 min read ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"15": {
+  },"17": {
     "doc": "Announcements",
     "title": "Shortlisted for funding",
     "content": "We have been shortlisted for another round of funding to host COSMOS 2023. Stay tuned for more information! . ",
     "url": "http://localhost:4000/announcements/#shortlisted-for-funding",
     "relUrl": "/announcements/#shortlisted-for-funding"
-  },"16": {
+  },"18": {
     "doc": "Announcements",
     "title": "Call for applications",
     "content": "Feb 12 &middot; 1 min read ",
     "url": "http://localhost:4000/announcements/",
     "relUrl": "/announcements/"
-  },"17": {
+  },"19": {
     "doc": "Announcements",
     "title": "Apply by April 14th",
     "content": "We invite you to apply to the Computational Summer school on Modeling Social and collective behavior (COSMOS) taking place from July 4th - July 7th 2022 in Konstanz, DE. COSMOS is designed to provide attendees (COSMOnauts) from diverse fields (e.g., psychology, economics, neuroscience, biology, computer science, etc…) and career stages (master, PhD, postdoc, and junior PI) with the computational skills required to tackle emerging challenges in understanding social learning and collective behaviour. Taking advantage of the close collaboration networks and interdisciplinary expertise available at the Centre for the Advanced Study of Collective Behaviour (CASCB) in Konstanz, COSMOS will invite leading researchers from diverse disciplines as guest instructors who will mentor attendees’ own modelling projects during the School. In addition to providing hands-on instruction and mentorship for in-person attendees, our proposed hybrid format will also allow any number of remote participants to benefit from the openly accessible teaching materials) and recorded talks. The goal of the students will be to develop a foundational understanding about how computational modeling can be a strong thread that unifies and advances the study of a wide range of social and collective phenomena. To apply, you will need to submit the following materials . | One page cover letter describing your motivation to attend the summer school and how you think it will will inform your research | Curriculum Vitae | One letter of recommendation | . You can submit your application by April 14th: application portal. ",
     "url": "http://localhost:4000/announcements/#apply-by-april-14th",
     "relUrl": "/announcements/#apply-by-april-14th"
-  },"18": {
+  },"20": {
     "doc": "Application Portal",
     "title": "Prerequisites",
     "content": "COSMOS is targeted towards attendees from diverse fields (e.g., psychology, economics, neuroscience, biology, computer science, etc) and career stages (master, PhD, postdoc, and junior PI). Participants should have a basic background knowledge in elementary statistics (e.g., probability theory) and programming in R in order to master the technical skills, but no prior experience with computational modeling is necessary. ",
     "url": "http://localhost:4000/application/#prerequisites",
     "relUrl": "/application/#prerequisites"
-  },"19": {
+  },"21": {
     "doc": "Application Portal",
     "title": "What we offer",
     "content": "Attendees will benefit from tutorials teaching the fundamentals of computational modeling in social and cultural settings, attend talks by leading researchers from around the world, and gain career advice during mentorship sessions. New for 2023, we will also have group projects, where participants can directly apply their new knowledge on a number of provided dataset under the supervision of our instructors. ",
     "url": "http://localhost:4000/application/#what-we-offer",
     "relUrl": "/application/#what-we-offer"
-  },"20": {
+  },"22": {
     "doc": "Application Portal",
     "title": "Free to apply, free accomodations, and travel stipends",
     "content": "COSMOS 2023 is free to attend, and successful applications will be provided free shared accomodations. In addition, we will provide travel stipends for ~15 attendees on the basis of merit and need. ",
     "url": "http://localhost:4000/application/#free-to-apply-free-accomodations-and-travel-stipends",
     "relUrl": "/application/#free-to-apply-free-accomodations-and-travel-stipends"
-  },"21": {
+  },"23": {
     "doc": "Application Portal",
     "title": "To apply, you will need to submit the following materials as a single pdf",
     "content": ". | One page cover letter describing your motivation to attend the summer school and how you think it will inform your research | Curriculum Vitae | One letter of recommendation | . You can submit your application by April 14th: application portal. ",
     "url": "http://localhost:4000/application/#to-apply-you-will-need-to-submit-the-following-materials-as-a-single-pdf",
     "relUrl": "/application/#to-apply-you-will-need-to-submit-the-following-materials-as-a-single-pdf"
-  },"22": {
+  },"24": {
     "doc": "Application Portal",
     "title": "Application Portal",
     "content": " ",
     "url": "http://localhost:4000/application/",
     "relUrl": "/application/"
-  },"23": {
+  },"25": {
     "doc": "COSMOS",
     "title": "COSMOS Konstanz",
     "content": "The Computational Summer school on Modeling Social and collective behavior (COSMOS) - Konstanz, DE . ",
     "url": "http://localhost:4000/#cosmos-konstanz",
     "relUrl": "/#cosmos-konstanz"
-  },"24": {
+  },"26": {
     "doc": "COSMOS",
-    "title": "Welcome to COSMOS 2023",
-    "content": "Jul 1 &middot; 0 min read ",
+    "title": "Hiatus until 2025",
+    "content": "Dec 1 &middot; 0 min read ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"25": {
+  },"27": {
     "doc": "COSMOS",
-    "title": "COSMOS 2023 starting July 4th!",
-    "content": "We look forward to welcoming you to the Computational Summer school on Modeling Social and collective behavior (COSMOS) taking place from July 4th - July 7th 2023 in Konstanz, DE. Please take a look at the schedule to familiarize yourself with what will be taking place over this week. We have already updated the teaching materials, where the publicly accessible code notebooks you find there will be companions to the tutorials we are running. Have a great trip and see you in Konstanz! . Announcements . ",
-    "url": "http://localhost:4000/#cosmos-2023-starting-july-4th",
-    "relUrl": "/#cosmos-2023-starting-july-4th"
-  },"26": {
+    "title": "COSMOS 2025",
+    "content": "Dear future COSMOnauts, we are taking a brief hiatus in 2024 while Wataru relocates to a new position at Riken in Tokyo. In the meantime, we will be writing a tutorial paper and looking for future funding sources to return in 2025. Stay tuned! . Announcements . ",
+    "url": "http://localhost:4000/#cosmos-2025",
+    "relUrl": "/#cosmos-2025"
+  },"28": {
     "doc": "COSMOS",
     "title": "COSMOS",
     "content": " ",
     "url": "http://localhost:4000/",
     "relUrl": "/"
-  },"27": {
+  },"29": {
     "doc": "Instructors",
     "title": "Organizers",
     "content": "Charley Wu . charley.wu[at]uni-tuebingen[dot]de . Dr Charley Wu is the PI of the Human and Machine Cognition Lab at the University of Tübingen, which is jointly funded by the Excellence Cluster “Machine Learning for Science” and the Tübingen AI Center. Using a combination of statistical and machine learning models, his team seeks to understand the cognitive shortcuts that allow humans to learn efficiently and behave intelligently, both individually and in groups. Drawing on an extensive background in computational modeling of behavior, Charley will provide students with a gentle introduction to the fundamentals of computational modeling in social settings. Wataru Toyokawa . wataru.toyokawa[at]uni-konstanz[dot]de . Dr Wataru Toyokawa is a research scientist at the University of Konstanz, and is the PI of the “Collective Foraging and Social Search” project funded by CASCB. Using computational modelling and Bayesian statistical methods, coupled with real-time online behavioural experimentation, he is quantitatively approaching social behaviour and group dynamics, as well as their eco-evolutionary implications in humans and non-human animal societies. ",
     "url": "http://localhost:4000/instructors/#organizers",
     "relUrl": "/instructors/#organizers"
-  },"28": {
+  },"30": {
     "doc": "Instructors",
     "title": "Keynote",
     "content": "Meg Crofoot . mcrofoot[at]ab[dot]mpg[dot]de . Dr. Margaret Crofoot is a behavioral ecologist and evolutionary anthropologist interested in the evolution of social complexity. In her research, she combines observational methods and field-based experiments with emerging remote sensing technology, to reveal how group-living animals overcome conflicts of interest to achieve shared goals. She is particularly interested in how group-level traits emerge and the ways in which they shape the collective ecology of animals’ societies. Crofoot is currently a Director at the Max Planck Institute of Animal Behavior and Full Professor at the University of Konstanz. ",
     "url": "http://localhost:4000/instructors/#keynote",
     "relUrl": "/instructors/#keynote"
-  },"29": {
+  },"31": {
     "doc": "Instructors",
     "title": "Instructors",
     "content": "Alberto Acerbi . Alberto.Acerbi[at]brunel[dot]ac[dot]uk . Alberto is a researcher in the field of cultural evolution. His work is at the interface of psychology, anthropology, and sociology. He is interested in particular to contemporary cultural phenomena, and uses a naturalistic, quantitative, and evolutionary approach with different methodologies, especially individual-based models and quantitative analysis of large-scale cultural data. Anne Kandler . anne_kandler[at]eva[dot]mpg[dot]de . Anne Kandler is a senior scientist at the Max Planck Institute for Evolutionary Anthropology. Her research is focused on generalising the theoretical foundations of cultural evolution to include features like complex trait architecture and population structure, or cognitive processes such as personal memory and explore their impact on the evolutionary process. She combines these theoretical approaches with empirical research by developing and applying suitable inference frameworks. Judy Fan . judithfan[at]gmail[dot]com . Judy Fan is currently Assistant Professor of Psychology at the University of California, San Diego and incoming Assistant Professor of Psychology at Stanford University in July 2023. Research in her lab aims to reverse engineer the human cognitive toolkit, especially how people use physical representations of thought to learn, communicate, and solve problems. Towards this end, her lab employs converging approaches from cognitive science, computational neuroscience, and artificial intelligence. She received her PhD in Psychology from Princeton University and her AB in Neurobiology and Statistics from Harvard College. Julian Jara-Ettinger . julian.jara.ettinger[at]gmail[dot]com . Julian Jara-Ettinger is an assistant professor of psychology at Yale University, with affiliations to the Computer Science department, the Cognitive Science program, and the Wu Tsai institute. Julian received his bachelor’s degree in physics and mathematics at the Universidad Michoacana in Mexico and his PhD in Cognitive Science at MIT. At Yale, Julian’s research group—the computational social cognition lab—aims to characterize the representations and computations that support human social cognition, understand how they emerge and develop, and use them to build more human-like machine social intelligence. Lei Zhang . l.zhang.13[at]bham[dot]ac[dot]uk . Dr. Lei Zhang is an associate professor at the Centre for Human Brain Health, School of Psychology, University of Birmingham. His research addresses the fundamental question of the “social brain” by studying the cognitive, computational, and neurobiological basis of social learning and decision-making in healthy individuals (across the lifespan), and in psychiatric disorders. In his lecture, he will talk about the implementation of a simple reinforcement learning model within the (hierarchical) Bayesian framework using Stan (http://mc-stan.org/). Robert Hawkins . rdhawkins[at]princeton[dot]edu . Robert Hawkins is a post-doctoral researcher at the Princeton Neuroscience Institute and incoming Assistant Professor of Psychology at the University of Wisconsin, Madison. He received his PhD in Psychology from Stanford University and his bachelor’s degree in mathematics and cognitive science at Indiana University. His research group investigates the cognitive mechanisms that allow collectives to flexibly communicate, collaborate, and coordinate on social conventions. His interdisciplinary approach combines computational models of communication and social inference with large-scale multi-player experiments. Vivek Hari Sridhar . vsridhar[at]ab[dot]mpg[dot]de . Vivek Hari Sridhar is a post-doctoral researcher in the Department for the Ecology of Animal Societies, at the Max Planck Institute of Animal Behavior. His interests lie in understanding fundamental principles that govern spatiotemporal computation in biological systems. To do this, he uses various techniques in computer vision and machine learning for data pre-processing and analysis. By taking inspiration from statistical physics and combining this with mathematical models and individual based simulations, he hopes to elucidate the link between the individual and the group at both generational and evolutionary timescales. ",
     "url": "http://localhost:4000/instructors/",
     "relUrl": "/instructors/"
-  },"30": {
+  },"32": {
     "doc": "Course Materials",
     "title": "Course Materials",
     "content": " ",
     "url": "http://localhost:4000/materials/",
     "relUrl": "/materials/"
-  },"31": {
+  },"33": {
     "doc": "Course Materials",
     "title": "Tutorial 1: Designing a social learning environment - Charley Wu &amp; Wataru Toyokawa",
     "content": "Code Notebook . slides . ",
     "url": "http://localhost:4000/materials/#tutorial-1-designing-a-social-learning-environment-charley-wu-wataru-toyokawa",
     "relUrl": "/materials/#tutorial-1-designing-a-social-learning-environment-charley-wu-wataru-toyokawa"
-  },"32": {
+  },"34": {
     "doc": "Course Materials",
     "title": "Tutorial 2:  Models of social and individual learning - Charley Wu &amp; Wataru Toyokawa",
     "content": "Code Notebook . slides . ",
     "url": "http://localhost:4000/materials/#tutorial-2-models-of-social-and-individual-learning-charley-wu-wataru-toyokawa",
     "relUrl": "/materials/#tutorial-2-models-of-social-and-individual-learning-charley-wu-wataru-toyokawa"
-  },"33": {
+  },"35": {
     "doc": "Course Materials",
     "title": "Tutorial 3: Model comparison and robustness - Charley Wu &amp; Wataru Toyokawa",
     "content": "Code Notebook . slides . Tutorial 4: Cracking hierarchical Bayesian computational modeling with Stan – Lei Zhang . slides and code . ",
     "url": "http://localhost:4000/materials/#tutorial-3-model-comparison-and-robustness-charley-wu-wataru-toyokawa",
     "relUrl": "/materials/#tutorial-3-model-comparison-and-robustness-charley-wu-wataru-toyokawa"
-  },"34": {
+  },"36": {
     "doc": "Course Materials",
     "title": "COSMOS 2023 - Talk recordings",
     "content": "Meg Crofoot - Building a science of sociome . Alberto Acerbi - Agent-based models of cultural evolution . Robert Hawkins - Coordination and collective behavior . Judy Fan - Learning to coordinate on shared task abstractions . Anne Kandler - Inferring process from pattern in cultural evolution . Vivek Hari Sridhar - Collective computation across scales of biological organisation . Julian Jara-Ettinger - The computational structure of human Theory of Mind . ",
     "url": "http://localhost:4000/materials/#cosmos-2023---talk-recordings",
     "relUrl": "/materials/#cosmos-2023---talk-recordings"
-  },"35": {
+  },"37": {
     "doc": "Course Materials",
     "title": "COSMOS 2022 - Talk recordings",
     "content": "Tutorial 1: Designing a social learning environment – Wataru Toyokawa &amp; Charley Wu . Tutorial 2: Models of social and individual learning – Charley Wu &amp; Wataru Toyokawa . Tutorial 3: Model comparison and robustness – Charley Wu &amp; Wataru Toyokawa . Iain Couzin - Employing Immersive Virtual Reality and Machine Learning *Substitute recording due to technical issues . Stefano Palminteri - The blessing and curse of value shaping imitation . Elena Miu - Cumulative culture: the evolution of technology . Ariana Strandburg-Peshkin - Communication &amp; collective behaviour in animal societies . Natalia Vélez - Learning from other minds: Probabilistic models of human social learning . Mark Ho - Models of multi-agent action and inference . Ralf Kurvers - The cognitive mechanisms underlying information cascades . ",
     "url": "http://localhost:4000/materials/#cosmos-2022---talk-recordings",
     "relUrl": "/materials/#cosmos-2022---talk-recordings"
-  },"36": {
+  },"38": {
     "doc": "Group projects",
     "title": "Group projects",
     "content": "You can find a more detailed overview about each project here. P1: Wisdom or madness of crowds? (based on Toyokawa, Whalen &amp; Laland (2019)) . Investigate human choice behaviour in a three-armed bandit task to see when social learning is helpful and when it isn’t. | Beginner friendly | Model code written in R | Data and code are here | . P2: Social learning in correlated environments (based on Witt, Toyokawa, Lala, Gaissmaier &amp; Wu (2023)) . Investigate how humans integrate social information when it is positively correlated in a multi-armed bandit task. | Advanced | Model code written in Python | Data and code are here | . P3: Learning other people’s values based on the decisions they make (based on Jern, Lucas &amp; Kemp (2017)) . Simulate inverse decision-making to understand an agent’s prefrences. | Beginner friendly | No previous code to be used - choose your own programming language! | Data are here | . P4: Tracking competence and preference inference from spatial navigation (based on Jara-Ettinger, Schulz &amp; Tenenbaum (2020)) . Simulate an artificial agent navigating an environment, and an observer inferring its preferences and competence. Compare how well this matches human ratings. | Advanced | Model code written in Python (or code your own MDP) | Data are here in the Data folder and code (if desired) is here | . P5: Learning to communicate about shared procedural abstractions (based on McCarthy, Hawkins, Wang, Holdaway &amp; Fan (2021)) . Replicate or expand on an analysis of how human participants effectively communicate in a physical assembly task. | Beginner friendly or advanced, depending on whether you choose to replicate or expand | Model code written in Python | Data and code are here | . P6: Modelling algorithm-mediated social learning (inspired by Acerbi (2019) and Brady et al. (2023)) . Extend models of transmission biases including algorithmic-mediation (possibly using data from social media). | Beginner friendly | Model code written in R | Code is here | . P7: Interplay between direct learning and social learning under uncertainty (based on Zhang &amp; Gläscher (2020)) . Work with an existing model of direct and social learning to predict human choices in an experiment or simulate agents. | Advanced | Model code written in Matlab, Stan, and R | Data and code are here) | . P8: From pattern to process (based on Kandler, Fogarty &amp; Karsdorp (2023)) . Figure out what evolutionary process underlies the distribution of a population’s cultural traits in five datasets. | Beginner friendly | Model code written in R, Matlab, or Julia | Data and code are here | . P9: Quantifying leadership in animal groups (based on Sridhar et al. (2023)) . Explore the effect of different pairwise predictors on leadership / social influence within groups of golden shiner fish and/or pigeons. | Beginner friendly | Model code written in Python | Data are here and code is here | . ",
     "url": "http://localhost:4000/projects/",
     "relUrl": "/projects/"
-  },"37": {
+  },"39": {
     "doc": "Schedule",
     "title": "COSMOS 2023 Schedule",
     "content": "Tuesday July 4th - Friday July 7th, all times are CET . | Tuesday: poster session/reception takes place in the Center for Visual Computing of Collectives (Building ZT, University of Konstanz). A layout of the University Campus can be found here | Wednesday and Thursday: all sessions are held in Bodensee Forum, Reichenaustraße 21, 78467 Konstanz. | Friday: all sessions will be in Senatssaal – V 1001, University of Konstanz, Building V, Universitätsstraße 10, 78464 Konstanz. | . Add the schedule via this Google calendar link . | 9:00 AM | 9:30 AM | 10:00 AM | 10:30 AM | 11:00 AM | 11:30 AM | 12:00 PM | 12:30 PM | 1:00 PM | 1:30 PM | 2:00 PM | 2:30 PM | 3:00 PM | 3:30 PM | 4:00 PM | 4:30 PM | 5:00 PM | 5:30 PM | 6:00 PM | 6:30 PM | 7:00 PM | 7:30 PM | . | ",
     "url": "http://localhost:4000/schedule/#cosmos-2023-schedule",
     "relUrl": "/schedule/#cosmos-2023-schedule"
-  },"38": {
+  },"40": {
     "doc": "Schedule",
     "title": "Tuesday",
     "content": ". | Welcome reception and poster presentation 5:00 PM–7:00 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
-  },"39": {
+  },"41": {
     "doc": "Schedule",
     "title": "Wednesday",
     "content": ". | Keynote: Building a Science of the Sociome 9:00 AM–10:00 AM Crofoot | Introduction &amp; Opening Remarks 10:00 AM–10:30 AM Wu &amp; Toyokawa | Coffee break 10:30 AM–11:00 AM | Tutorial 1: Designing a social learning environment 11:00 AM–12:00 PM Wu &amp; Toyokawa | Lunch 12:00 PM–1:30 PM | Agent-based models of cultural evolution 1:30 PM–2:30 PM Acerbi | Coffee break 2:30 PM–3:00 PM | Tutorial 2: Models of social and individual learning 3:00 PM–4:30 PM Wu &amp; Toyokawa | Coordination and collective behavior 4:30 PM–5:30 PM Hawkins | Introduction to group projects 5:30 PM–6:30 PM Wu &amp; Toyokawa | Biergarten 7:00 PM–9:00 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
-  },"40": {
+  },"42": {
     "doc": "Schedule",
     "title": "Thursday",
     "content": ". | Learning to coordinate on shared task abstractions 9:00 AM–10:00 AM Fan | Coffee break 10:00 AM–10:30 AM | Tutorial 3: Model comparison and robustness 10:30 AM–12:00 PM Wu &amp; Toyokawa | Lunch and group work 12:00 PM–3:00 PM | Coffee break 3:00 PM–3:30 PM | Inferring process from pattern in cultural evolution 3:30 PM–4:30 PM Kandler | Collective computation across scales of biological organisation 4:30 PM–5:30 PM Sridhar | Mentorship session 5:30 PM–8:00 PM | . | ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
-  },"41": {
+  },"43": {
     "doc": "Schedule",
     "title": "Friday",
     "content": ". | The computational structure of human Theory of Mind 9:00 AM–10:00 AM Jara-Ettinger | Coffee break 10:00 AM–10:30 AM | Tutorial 4: Cracking hierarchical Bayesian computational modeling with Stan 10:30 AM–12:00 PM Zhang | Lunch and group work 12:00 PM–3:30 PM | Coffee break 3:30 PM–4:00 PM | Group presentations 4:00 PM–6:00 PM | Final Remarks 6:00 PM–6:30 PM | . | . ",
     "url": "http://localhost:4000/schedule/",
     "relUrl": "/schedule/"
-  },"42": {
+  },"44": {
     "doc": "Schedule",
     "title": "Schedule",
     "content": " ",
